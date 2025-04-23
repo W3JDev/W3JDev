@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=MN+Jewel+%7C+F%26B+Digital+Alchemist;Full-Stack+Developer+%7C+Tech+Polymath;Turning+Coffee+Into+Code+Since+2013" alt="Animated Header" />
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=W3JDev&theme=github-dark&border_radius=5&mode=weekly)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=w3jdev)
 </div>
 
 ---
