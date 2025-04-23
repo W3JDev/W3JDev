@@ -33,22 +33,21 @@ Hi there! I'm **MN Jewel**, a passionate developer and innovator bridging the wo
 ### 📂 **Highlighted Projects**
 Here are some projects that showcase my skills and expertise:
 
-1. [**AI Sommelier System**](#)  
+1.[**MenuMate**](https://github.com/W3JDev/MenuMate-Prototype)  
+   *Streamlined menu design and customer engagement through an interactive system.*  
+   **Tech Stack**: React.js, Node.js, Firebase
+   
+2. [**Vine AI**](https://github.com/W3JDev/Vine_Ai)
    *An AI-powered recommendation engine that increased revenue by 35%.*  
    **Tech Stack**: Python, OpenAI API, Flask
+   
+4. [**N8N Workflow Builder**](https://github.com/W3JDev/N8N-Workflow-Builder)  
+   *A low-code workflow automation tool for integrating apps and services seamlessly.*  
+   **Tech Stack**: Node.js, N8N, JavaScript  
 
-2. [**Google Apps Script Payroll Bot**](#)  
+5. [**Google Apps Script Payroll Bot**] (Employe-Attendence-System-Google-Sheet-Appscript-Project)  
    *Automated payroll and attendance system with 97% accuracy.*  
    **Tech Stack**: Google Apps Script, Google Sheets
-
-3. [**Solana Blockchain Token Launch**](#)  
-   *Deployed tokens and managed liquidity pools with 3,500+ transactions.*  
-   **Tech Stack**: Solana, Rust, Raydium DEX
-
-4. [**GPT-4 Staff Training System**](#)  
-   *Developed training modules that improved onboarding efficiency by 40%.*  
-   **Tech Stack**: OpenAI GPT-4, Google Docs, Python
-
 ---
 
 ### 📊 **Professional Experience**
