@@ -1,94 +1,95 @@
-# Welcome to My GitHub Profile 👋
-
-## MN Jewel - F&B Digital Alchemist | Self-Taught Tech Polymath ⚡ | Full-Stack Developer
-
-Hi there! I'm **MN Jewel**, a passionate developer and innovator bridging the worlds of **F&B** and **technology**. With over a decade of experience in both hospitality and software development, I specialize in crafting cutting-edge digital solutions that drive measurable results.
-
----
-
-### 🚀 **What I Do**
-- **Technical Expertise**: Full-stack development, AI/ML solutions, blockchain integration, and process automation.
-- **F&B Innovation**: Transforming operational challenges into scalable tech solutions.
-- **Digital Transformation**: Helping businesses pivot to tech-savvy operations for improved efficiency and growth.
+<!-- Header with GitHub Stats -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=MN+Jewel+%7C+F%26B+Digital+Alchemist;Full-Stack+Developer+%7C+Tech+Polymath;Turning+Coffee+Into+Code+Since+2013" alt="Animated Header" />
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=W3JDev&theme=github-dark&border_radius=5&mode=weekly)](https://git.io/streak-stats)
+</div>
 
 ---
 
-### 🌟 **Key Achievements**
-- **AI Sommelier System**: Boosted average ticket size by 35% with a custom-built AI-powered recommendation system.
-- **Payroll Automation**: Designed a Google Apps Script bot that reduced payroll processing time from 40 hours to 2 hours.
-- **Blockchain Token Launch**: Deployed Solana-based tokens with 3,500+ successful transactions.
-- **GPT-4 Training Modules**: Improved staff onboarding efficiency by 40%.
+# 👨💻 **About Me**
+> *"Bridging Michelin-star thinking with Silicon Valley execution"*
+
+I'm **MN Jewel**, a self-taught tech polymath revolutionizing F&B through code. With 10+ years at the intersection of hospitality and technology, I create **AI-powered solutions** that turn operational challenges into competitive advantages.
+
+**Core Philosophy**: *"If it can be automated, it should be – but never at the expense of human creativity."*
 
 ---
 
-### 🛠️ **Technologies & Tools**
-- **Languages**: JavaScript, Python, Google Apps Script
-- **Frameworks**: React.js, Node.js, Flask
-- **Blockchain**: Solana, Raydium DEX
-- **Automation**: Low-code/no-code tools, Google Sheets/Apps Script
-- **Other**: AI/ML, Technical Documentation
+## 🛠️ **Technical Arsenal**
+### **Languages & Frameworks**
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+
+### **Specialized Tools**
+![Blockchain](https://img.shields.io/badge/-Solana-14F195?logo=solana&logoColor=white)
+![AI/ML](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white)
+![Google Apps Script](https://img.shields.io/badge/-GAS-4285F4?logo=google&logoColor=white)
+![Automation](https://img.shields.io/badge/-N8N-000000?logo=n8n&logoColor=white)
 
 ---
 
-### 📂 **Highlighted Projects**
-Here are some projects that showcase my skills and expertise:
-
-1.[**MenuMate**](https://github.com/W3JDev/MenuMate-Prototype)  
-   *Streamlined menu design and customer engagement through an interactive system.*  
-   **Tech Stack**: React.js, Node.js, Firebase
-   
-2. [**Vine AI**](https://github.com/W3JDev/Vine_Ai)
-   *An AI-powered recommendation engine that increased revenue by 35%.*  
-   **Tech Stack**: Python, OpenAI API, Flask
-   
-4. [**N8N Workflow Builder**](https://github.com/W3JDev/N8N-Workflow-Builder)  
-   *A low-code workflow automation tool for integrating apps and services seamlessly.*  
-   **Tech Stack**: Node.js, N8N, JavaScript  
-
-5. [**Google Apps Script Payroll Bot**] (Employe-Attendence-System-Google-Sheet-Appscript-Project)  
-   *Automated payroll and attendance system with 97% accuracy.*  
-   **Tech Stack**: Google Apps Script, Google Sheets
----
-
-### 📊 **Professional Experience**
-- **Full-Stack Developer @ W3JDev**  
-  *July 2021 - Present*: Building SaaS solutions for F&B, retail, and blockchain sectors.
-
-- **Operations Manager @ Muze Cafe and Bar**  
-  *July 2022 - February 2024*: Spearheaded AI-powered initiatives driving 20% sales growth.
-
-- **Freelance Technical Content Writer**  
-  *January 2021 - Present*: Delivered 50+ high-ranking Web3 articles and technical guides.
+## 🏆 **Career Highlights**
+| **Metric**          | **Achievement**                                  | **Impact**                   |
+|----------------------|-------------------------------------------------|------------------------------|
+| AI Recommendations   | Built Vine AI wine pairing system               | 🚀 +35% average ticket size  |
+| Payroll Automation   | Developed GAS bot                               | ⏳ 95% time reduction         |
+| Blockchain Adoption  | Launched Solana-based loyalty token            | 💸 3,500+ transactions        |
+| Staff Training       | Created GPT-4 onboarding modules               | 📈 40% faster ramp-up         |
 
 ---
 
-### 🌐 **Connect with Me**
-- **LinkedIn**: [linkedin.com/in/mn-jewel](https://www.linkedin.com/in/mn-jewel)  
-- **Email**: mnjewelps@gmail.com  
-- **GitHub Repositories**: Browse my [projects here](https://github.com/W3JDev?tab=repositories).
+## 🌟 **Featured Projects**
+
+### 1. [MenuMate](https://github.com/W3JDev/MenuMate-Prototype) - Digital Menu Revolution
+[![React](https://img.shields.io/badge/-React-61DAFB)](https://reactjs.org/)
+[![Firebase](https://img.shields.io/badge/-Firebase-FFCA28)](https://firebase.google.com/)
+> Transformed static menus into dynamic sales engines  
+> **Key Features**: Real-time updates • AI pairing suggestions • Customer analytics dashboard
+
+### 2. [Vine AI](https://github.com/W3JDev/Vine_Ai) - Sommelier Intelligence
+[![Python](https://img.shields.io/badge/-Python-3776AB)](https://www.python.org/)
+[![Flask](https://img.shields.io/badge/-Flask-000000)](https://flask.palletsprojects.com/)
+> 3x ROI in first quarter of deployment  
+> **Innovation**: NLP menu analysis • Dynamic pricing integration • Guest preference tracking
+
+### 3. [Payroll Automator](https://github.com/W3JDev/Employe-Attendence-System-Google-Sheet-Appscript-Project) - HR Tech
+[![GAS](https://img.shields.io/badge/-Google%20Apps%20Script-4285F4)](https://developers.google.com/apps-script)
+> Reduced 40h/month manual work to 2h automated process  
+> **Features**: Biometric sync • Error-checking • Multi-location support
 
 ---
 
-### 🌱 **What I'm Currently Exploring**
-- AI-Driven Guest Personalization
-- Blockchain Loyalty Systems
-- Predictive Inventory Management
-- Low-Code Automation Stacks
+## 📈 **GitHub Activity**
+<div align="center">
+  
+  [![Jewel's GitHub stats](https://github-readme-stats.vercel.app/api?username=W3JDev&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/W3JDev)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=W3JDev&layout=compact&theme=github_dark&hide_border=true)](https://github.com/W3JDev)
+
+</div>
 
 ---
 
-### 🎯 **Open to Opportunities**
-I’m actively seeking roles in:
-- **Full-Stack Development**  
-- **AI/ML Engineering**  
-- **Blockchain Development**  
-- **F&B Tech Consultancy**
+## 🚀 **Current Frontiers**
+- **AI Personalization Engine** - Predicting guest preferences with 90%+ accuracy
+- **Blockchain Loyalty 2.0** - NFT-based rewards system on Solana
+- **Inventory Prophet** - ML-driven stock prediction models
+- **Low-Code Factory** - Building no-code tools for F&B ops
 
 ---
 
-### 💬 **Fun Fact**
-I once coded a wine-pairing AI using only free tools and iced coffee ☕. Ask me about it!
-<!---
-W3JDev/W3JDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📬 **Let's Connect**
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mn-jewel)
+  [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail)](mailto:mnjewelps@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=for-the-badge&logo=google-chrome)](https://w3j.dev)
+
+</div>
+
+---
+
+> **Fueling Innovation Since 2013**  
+> *"The perfect cocktail: 2 parts creativity, 1 part caffeine, shaken with relentless execution"*
