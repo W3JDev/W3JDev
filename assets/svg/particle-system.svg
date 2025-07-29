@@ -1,23 +1,129 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" role="img" aria-label="Luxury particle system background">
   <defs>
-    <radialGradient id="particleGrad" cx="50%" cy="50%" r="50%">
+    <!-- JEWEL Theme Gradients -->
+    <radialGradient id="goldParticle" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#FFD700;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#FFD700;stop-opacity:0" />
+    </radialGradient>
+    
+    <radialGradient id="cyanParticle" cx="50%" cy="50%" r="50%">
       <stop offset="0%" style="stop-color:#00D8FF;stop-opacity:1" />
       <stop offset="100%" style="stop-color:#00D8FF;stop-opacity:0" />
     </radialGradient>
+    
+    <radialGradient id="purpleParticle" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#8B5CF6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#8B5CF6;stop-opacity:0" />
+    </radialGradient>
+    
+    <radialGradient id="silverParticle" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#C0C0C0;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#C0C0C0;stop-opacity:0" />
+    </radialGradient>
   </defs>
   
-  <!-- Floating particles with different animations -->
-  <circle cx="100" cy="100" r="2" fill="url(#particleGrad)">
+  <!-- Background luxury gradient -->
+  <rect width="100%" height="100%" fill="url(#luxuryBackground)"/>
+  
+  <!-- Large floating particles with elegant motion -->
+  <circle cx="150" cy="80" r="3" fill="url(#goldParticle)">
     <animateTransform attributeName="transform" type="translate" 
-                      values="0,0; 20,-10; 0,0" dur="3s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0;1;0" dur="3s" repeatCount="indefinite"/>
+                      values="0,0; 30,-20; 0,0" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="8s" repeatCount="indefinite"/>
   </circle>
   
-  <circle cx="200" cy="150" r="1.5" fill="url(#particleGrad)">
+  <circle cx="350" cy="120" r="2.5" fill="url(#cyanParticle)">
     <animateTransform attributeName="transform" type="translate" 
-                      values="0,0; -15,15; 0,0" dur="4s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0;1;0" dur="4s" repeatCount="indefinite"/>
+                      values="0,0; -25,25; 0,0" dur="10s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.2;0.9;0.2" dur="10s" repeatCount="indefinite"/>
   </circle>
+  
+  <circle cx="550" cy="90" r="2" fill="url(#purpleParticle)">
+    <animateTransform attributeName="transform" type="translate" 
+                      values="0,0; 20,-30; 0,0" dur="12s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="12s" repeatCount="indefinite"/>
+  </circle>
+  
+  <circle cx="750" cy="110" r="2.5" fill="url(#silverParticle)">
+    <animateTransform attributeName="transform" type="translate" 
+                      values="0,0; -30,15; 0,0" dur="9s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.3;0.8;0.3" dur="9s" repeatCount="indefinite"/>
+  </circle>
+  
+  <circle cx="950" cy="70" r="3" fill="url(#goldParticle)">
+    <animateTransform attributeName="transform" type="translate" 
+                      values="0,0; 25,35; 0,0" dur="11s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="11s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Medium particles for depth -->
+  <circle cx="200" cy="200" r="1.5" fill="url(#cyanParticle)">
+    <animateTransform attributeName="transform" type="translate" 
+                      values="0,0; -15,20; 0,0" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.4;0.8;0.4" dur="7s" repeatCount="indefinite"/>
+  </circle>
+  
+  <circle cx="400" cy="250" r="1.8" fill="url(#purpleParticle)">
+    <animateTransform attributeName="transform" type="translate" 
+                      values="0,0; 20,-15; 0,0" dur="9s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.3;0.9;0.3" dur="9s" repeatCount="indefinite"/>
+  </circle>
+  
+  <circle cx="600" cy="220" r="1.2" fill="url(#silverParticle)">
+    <animateTransform attributeName="transform" type="translate" 
+                      values="0,0; -25,-20; 0,0" dur="13s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.5;0.7;0.5" dur="13s" repeatCount="indefinite"/>
+  </circle>
+  
+  <circle cx="800" cy="280" r="2" fill="url(#goldParticle)">
+    <animateTransform attributeName="transform" type="translate" 
+                      values="0,0; 15,25; 0,0" dur="8.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="8.5s" repeatCount="indefinite"/>
+  </circle>
+  
+  <circle cx="1000" cy="240" r="1.6" fill="url(#cyanParticle)">
+    <animateTransform attributeName="transform" type="translate" 
+                      values="0,0; -20,30; 0,0" dur="10.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.4;0.8;0.4" dur="10.5s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Small ambient particles -->
+  <circle cx="100" cy="320" r="1" fill="url(#purpleParticle)">
+    <animateTransform attributeName="transform" type="translate" 
+                      values="0,0; 10,-10; 0,0" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.3;0.6;0.3" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  
+  <circle cx="300" cy="340" r="0.8" fill="url(#silverParticle)">
+    <animateTransform attributeName="transform" type="translate" 
+                      values="0,0; -12,8; 0,0" dur="7.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.4;0.7;0.4" dur="7.5s" repeatCount="indefinite"/>
+  </circle>
+  
+  <circle cx="500" cy="360" r="1.2" fill="url(#goldParticle)">
+    <animateTransform attributeName="transform" type="translate" 
+                      values="0,0; 18,-12; 0,0" dur="9.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.2;0.9;0.2" dur="9.5s" repeatCount="indefinite"/>
+  </circle>
+  
+  <circle cx="700" cy="350" r="0.9" fill="url(#cyanParticle)">
+    <animateTransform attributeName="transform" type="translate" 
+                      values="0,0; -8,15; 0,0" dur="8.8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.5;0.8;0.5" dur="8.8s" repeatCount="indefinite"/>
+  </circle>
+  
+  <circle cx="900" cy="330" r="1.1" fill="url(#purpleParticle)">
+    <animateTransform attributeName="transform" type="translate" 
+                      values="0,0; 22,18; 0,0" dur="11.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.3;0.7;0.3" dur="11.5s" repeatCount="indefinite"/>
+  </circle>
+  
+  <circle cx="1100" cy="340" r="0.7" fill="url(#silverParticle)">
+    <animateTransform attributeName="transform" type="translate" 
+                      values="0,0; -15,-8; 0,0" dur="7.2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.4;0.6;0.4" dur="7.2s" repeatCount="indefinite"/>
+  </circle>
+</svg>
   
   <circle cx="300" cy="80" r="2.5" fill="url(#particleGrad)">
     <animateTransform attributeName="transform" type="translate" 

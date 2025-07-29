@@ -236,6 +236,22 @@ Update the primary color scheme by replacing `#00D8FF` throughout:
 - Advanced animation libraries
 - Machine learning personalizations
 
+## Preview Images Directory
+
+- `preview-images/hero-section.png` - Hero section with animated particles and avatar
+- `preview-images/stats-section.png` - GitHub stats with JEWEL theme styling  
+- `preview-images/tech-stack.png` - Technology stack with animated icons
+- `preview-images/projects-showcase.png` - Featured projects section
+- `preview-images/full-profile.png` - Complete profile overview
+
+## JEWEL Theme Colors
+
+- **Primary**: Deep navy/midnight blue (#0A0E27)
+- **Accent Gold**: #FFD700
+- **Premium Cyan**: #00D8FF  
+- **Elegant Purple**: #8B5CF6
+- **Silver Highlights**: #C0C0C0
+
 ---
 
 *This documentation is automatically updated with each release. Last updated: ![Dynamic Date](https://img.shields.io/badge/dynamic/json?color=00D8FF&label=&query=updated&url=https://api.github.com/repos/W3JDev/W3JDev)*

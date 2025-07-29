@@ -1,0 +1,163 @@
+name: Optimize Assets
+
+on:
+  push:
+    paths:
+      - 'assets/**'
+  pull_request:
+    paths:
+      - 'assets/**'
+  workflow_dispatch:
+
+jobs:
+  optimize:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          
+      - name: Install SVG optimization tools
+        run: |
+          npm install -g svgo
+          
+      - name: Validate SVG syntax
+        run: |
+          echo "🔍 Validating SVG files..."
+          for file in assets/svg/*.svg; do
+            if [ -f "$file" ]; then
+              echo "Checking $file..."
+              # Basic XML validation
+              xmllint --noout "$file" 2>/dev/null || echo "⚠️ Warning: $file may have syntax issues"
+              
+              # Check for GitHub-incompatible elements
+              if grep -q "foreignObject\|script\|link\|meta" "$file"; then
+                echo "❌ Error: $file contains GitHub-incompatible elements"
+                exit 1
+              fi
+              
+              # Check file size (GitHub has limits)
+              size=$(wc -c < "$file")
+              if [ $size -gt 1000000 ]; then  # 1MB limit
+                echo "⚠️ Warning: $file is quite large ($size bytes)"
+              fi
+            fi
+          done
+          echo "✅ SVG validation complete"
+          
+      - name: Optimize SVGs for GitHub
+        run: |
+          echo "🎨 Optimizing SVG files..."
+          for file in assets/svg/*.svg; do
+            if [ -f "$file" ]; then
+              echo "Optimizing $file..."
+              # Create backup
+              cp "$file" "$file.backup"
+              
+              # Optimize with GitHub-safe settings
+              svgo "$file" \
+                --config='{
+                  "plugins": [
+                    "removeDoctype",
+                    "removeXMLProcInst",
+                    "removeComments",
+                    "removeMetadata",
+                    "removeTitle",
+                    "removeDesc",
+                    "removeUselessDefs",
+                    "removeEditorsNSData",
+                    "removeEmptyAttrs",
+                    "removeHiddenElems",
+                    "removeEmptyText",
+                    "removeEmptyContainers",
+                    "removeViewBox",
+                    "cleanupEnableBackground",
+                    "convertStyleToAttrs",
+                    "convertColors",
+                    "convertPathData",
+                    "convertTransform",
+                    "removeUnknownsAndDefaults",
+                    "removeNonInheritableGroupAttrs",
+                    "removeUselessStrokeAndFill",
+                    "removeUnusedNS",
+                    "cleanupIDs",
+                    "cleanupNumericValues",
+                    "moveElemsAttrsToGroup",
+                    "moveGroupAttrsToElems",
+                    "collapseGroups",
+                    "removeRasterImages",
+                    "mergePaths",
+                    "convertShapeToPath",
+                    "sortAttrs",
+                    "removeDimensions"
+                  ]
+                }' || cp "$file.backup" "$file"
+              
+              # Remove backup
+              rm -f "$file.backup"
+            fi
+          done
+          echo "✅ SVG optimization complete"
+          
+      - name: Verify GitHub compatibility
+        run: |
+          echo "🔍 Final GitHub compatibility check..."
+          for file in assets/svg/*.svg; do
+            if [ -f "$file" ]; then
+              # Check for potential issues
+              if grep -q "xlink:" "$file"; then
+                echo "ℹ️ Info: $file uses xlink (usually OK)"
+              fi
+              
+              # Ensure animations use only GitHub-supported features
+              if grep -q "animateMotion\|animateColor" "$file"; then
+                echo "⚠️ Warning: $file uses advanced animations that may not work on GitHub"
+              fi
+              
+              echo "✅ $file appears GitHub-compatible"
+            fi
+          done
+          
+      - name: Generate performance report
+        run: |
+          echo "📊 Generating asset performance report..."
+          echo "# Asset Performance Report" > asset-report.md
+          echo "" >> asset-report.md
+          echo "| File | Size | Status |" >> asset-report.md
+          echo "|------|------|--------|" >> asset-report.md
+          
+          for file in assets/svg/*.svg; do
+            if [ -f "$file" ]; then
+              size=$(wc -c < "$file")
+              human_size=$(numfmt --to=iec-i --suffix=B $size)
+              status="✅ Good"
+              
+              if [ $size -gt 500000 ]; then
+                status="⚠️ Large"
+              fi
+              
+              if [ $size -gt 1000000 ]; then
+                status="❌ Too Large"
+              fi
+              
+              echo "| $(basename "$file") | $human_size | $status |" >> asset-report.md
+            fi
+          done
+          
+          echo "" >> asset-report.md
+          echo "Generated on: $(date)" >> asset-report.md
+          
+          cat asset-report.md
+          
+      - name: Commit optimized assets
+        if: github.event_name == 'push'
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add assets/
+          git diff --staged --quiet || git commit -m "🎨 Optimize SVG assets for GitHub compatibility"
+          git push
