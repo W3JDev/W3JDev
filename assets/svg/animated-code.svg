@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 200">
+  <defs>
+    <linearGradient id="codeGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00D8FF;stop-opacity:0.8" />
+      <stop offset="50%" style="stop-color:#0080FF;stop-opacity:0.6" />
+      <stop offset="100%" style="stop-color:#00D8FF;stop-opacity:0.8" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Animated code blocks -->
+  <g font-family="monospace" font-size="12" fill="url(#codeGradient)">
+    <!-- Line 1 -->
+    <text x="20" y="30">
+      <tspan>function</tspan>
+      <tspan fill="#FF6B6B"> buildAmazingProjects</tspan>
+      <tspan>() {</tspan>
+      <animate attributeName="opacity" values="0;1;1;1" dur="6s" repeatCount="indefinite"/>
+    </text>
+    
+    <!-- Line 2 -->
+    <text x="40" y="50">
+      <tspan fill="#4ECDC4">const</tspan>
+      <tspan> passion = </tspan>
+      <tspan fill="#FFE66D">'unlimited'</tspan>
+      <tspan>;</tspan>
+      <animate attributeName="opacity" values="0;0;1;1" dur="6s" repeatCount="indefinite"/>
+    </text>
+    
+    <!-- Line 3 -->
+    <text x="40" y="70">
+      <tspan fill="#4ECDC4">const</tspan>
+      <tspan> creativity = </tspan>
+      <tspan fill="#FFE66D">'infinite'</tspan>
+      <tspan>;</tspan>
+      <animate attributeName="opacity" values="0;0;0;1" dur="6s" repeatCount="indefinite"/>
+    </text>
+    
+    <!-- Line 4 -->
+    <text x="40" y="90">
+      <tspan fill="#95E1D3">return</tspan>
+      <tspan> passion + creativity + </tspan>
+      <tspan fill="#FFE66D">'☕'</tspan>
+      <tspan>;</tspan>
+      <animate attributeName="opacity" values="0;0;0;1" dur="6s" repeatCount="indefinite"/>
+    </text>
+    
+    <!-- Line 5 -->
+    <text x="20" y="110">
+      <tspan>}</tspan>
+      <animate attributeName="opacity" values="0;0;0;1" dur="6s" repeatCount="indefinite"/>
+    </text>
+    
+    <!-- Cursor -->
+    <rect x="35" y="115" width="2" height="15" fill="#00D8FF">
+      <animate attributeName="opacity" values="0;1;0" dur="1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  
+  <!-- Floating brackets -->
+  <text x="500" y="50" font-family="monospace" font-size="24" fill="#00D8FF" opacity="0.3">
+    { }
+    <animateTransform attributeName="transform" type="translate" 
+                      values="0,0; 10,-5; 0,0" dur="4s" repeatCount="indefinite"/>
+  </text>
+  
+  <text x="480" y="120" font-family="monospace" font-size="18" fill="#00D8FF" opacity="0.4">
+    [ ]
+    <animateTransform attributeName="transform" type="translate" 
+                      values="0,0; -8,8; 0,0" dur="5s" repeatCount="indefinite"/>
+  </text>
+  
+  <text x="520" y="90" font-family="monospace" font-size="20" fill="#00D8FF" opacity="0.2">
+    ( )
+    <animateTransform attributeName="transform" type="translate" 
+                      values="0,0; 5,10; 0,0" dur="3s" repeatCount="indefinite"/>
+  </text>
+</svg>
