@@ -318,6 +318,11 @@
 
 ## 🎮 Interactive Tech Playground
 
+<!-- Energy Core Animation -->
+<p align="center">
+  <img src="./assets/svg/energy-core.svg" width="300" height="300" alt="Energy Core" />
+</p>
+
 <!-- Mini Quiz Game -->
 <details>
 <summary>🧠 <b>Test Your Tech Knowledge - Interactive Quiz!</b></summary>
@@ -442,9 +447,18 @@
   </tr>
 </table>
 
+<!-- Animated Code Section -->
+<p align="center">
+  <img src="./assets/svg/animated-code.svg" width="600" height="200" alt="Animated Code" />
+</p>
+
+<!-- Glitch Effect Banner -->
+<p align="center">
+  <img src="./assets/svg/glitch-effect.svg" width="400" height="100" alt="Glitch Effect" />
+</p>
+
 ---
 
-<!-- Advanced Social Media Integration -->
 ## 🌐 Connect & Collaborate
 
 <table align="center" width="100%">
