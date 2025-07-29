@@ -1,83 +1,117 @@
-<!-- Cinematic Animated Header with Particle System -->
-<p align="center">
-  <img src="./assets/svg/particle-system.svg" width="100%" height="120" alt="Particle Background" />
-</p>
+<!-- Luxury JEWEL Theme Header with Premium Particle Background -->
+<div align="center">
+  
+<!-- Enhanced Particle System Background -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/svg/particle-system.svg">
+  <img src="./assets/svg/particle-system.svg" width="100%" height="180" alt="Luxury Particle Background" />
+</picture>
 
-<p align="center">
-  <img src="./assets/svg/animated-avatar.svg" width="120" height="120" alt="Animated Avatar" />
-</p>
+<!-- Premium Animated Avatar with Golden Ring -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/svg/animated-avatar.svg">
+  <img src="./assets/svg/animated-avatar.svg" width="140" height="140" alt="Professional Animated Avatar" />
+</picture>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=36&duration=3000&pause=800&color=00D8FF&center=true&vCenter=true&width=1000&lines=⚡+MN+Jewel+%7C+AI-Augmented+Tech+Strategist+⚡;🌟+Bridging+Michelin-Star+Thinking+with+AI+Execution+🌟;🚀+10%2B+Years+Transforming+F%26B+Through+Code+🚀;🎯+Building+The+Future%2C+One+Algorithm+at+a+Time+🎯" alt="Cinematic Header" />
-</p>
+<!-- Cinematic Header with JEWEL Theme Typography -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=42&duration=3000&pause=800&color=FFD700&background=0A0E27&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=%E2%9A%A1+MN+Jewel+%7C+AI-Augmented+Tech+Strategist+%E2%9A%A1;%F0%9F%8C%9F+Bridging+Michelin-Star+Thinking+with+AI+Execution+%F0%9F%8C%9F;%F0%9F%9A%80+Building+Tomorrow's+Solutions+with+Luxury+Precision+%F0%9F%9A%80" alt="Premium Cinematic Header" />
 
-<!-- Visitor Counter with Real-time Stats -->
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=W3JDev&label=Profile%20Views&color=00D8FF&icon=5&pretty=true" alt="Visitor Count" />
-  <img src="https://img.shields.io/badge/Last%20Updated-$(date%20+%22%25Y-%25m-%25d%22)-00D8FF?style=flat&logo=github" alt="Last Updated" />
-</p>
+<!-- Enhanced Visitor Analytics with JEWEL Styling -->
+<div style="margin: 20px 0;">
+  <img src="https://visitcount.itsvg.in/api?id=W3JDev&label=Profile%20Views&color=FFD700&icon=5&pretty=true" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Last%20Updated-2024--07--29-00D8FF?style=for-the-badge&logo=github&logoColor=white" alt="Last Updated" />
+  <img src="https://img.shields.io/badge/Theme-JEWEL%20Luxury-8B5CF6?style=for-the-badge&logo=palette&logoColor=white" alt="Theme Status" />
+</div>
 
-<!-- Enhanced Live Stats Section -->
-<p align="center">
-  <a href="https://github.com/W3JDev">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=w3jdev&theme=github-dark&border_radius=15&date_format=j%20M%5B%20Y%5D&ring=00D8FF&fire=00D8FF&currStreakLabel=00D8FF&sideNums=00D8FF&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" height="200" />
-    <img src="https://github-readme-stats.vercel.app/api?username=W3JDev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D8FF&icon_color=00D8FF&text_color=ffffff&include_all_commits=true&count_private=true&show_owner=true" alt="GitHub Stats" height="200" />
-  </a>
-</p>
+</div>
 
-<!-- Interactive Snake Game -->
-<p align="center">
-  <img src="./assets/images/github-contribution-grid-snake-dark.svg" alt="Snake Game Animation" />
-</p>
+<!-- Luxury JEWEL Theme Stats Dashboard -->
+<div align="center">
 
-<!-- Animated Wave Divider -->
-<p align="center">
-  <img src="./assets/svg/animated-wave.svg" width="100%" height="120" alt="Animated Wave" />
-</p>
+<!-- Premium Wave Divider -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/svg/animated-wave.svg">
+  <img src="./assets/svg/animated-wave.svg" width="100%" height="120" alt="Elegant Wave Divider" />
+</picture>
 
-<!-- Dynamic Tech Stack with Animated Icons -->
-## 🚀 AI-Powered Tech Arsenal
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs,express,firebase,py,tensorflow,pytorch,aws,gcp,docker&theme=dark&perline=6" alt="Tech Stack" />
-</p>
-
-<!-- Interactive Skill Progress Bars -->
-<table align="center" width="100%">
+<!-- Enhanced GitHub Statistics with JEWEL Theme -->
+<table align="center" style="background: linear-gradient(135deg, #0A0E27, #1a1f3a); border-radius: 15px; padding: 20px; margin: 20px 0;">
   <tr>
-    <td align="center" width="25%">
-      <b>🤖 AI Engineering</b><br>
-      <img src="https://progress-bar.dev/95?scale=100&title=Expert&width=200&color=00D8FF" alt="AI Engineering"/>
-      <br><sub>GPT-4, Gemini, LangChain, Vector DBs</sub>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=w3jdev&theme=radical&border_radius=15&date_format=j%20M%5B%20Y%5D&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideNums=00D8FF&sideLabels=C0C0C0&dates=C0C0C0&background=0A0E27" alt="GitHub Streak" height="220" />
     </td>
-    <td align="center" width="25%">
-      <b>⚡ Automation</b><br>
-      <img src="https://progress-bar.dev/92?scale=100&title=Expert&width=200&color=00D8FF" alt="Automation"/>
-      <br><sub>GitHub Actions, N8N, Zapier, Custom APIs</sub>
-    </td>
-    <td align="center" width="25%">
-      <b>🌐 Full Stack</b><br>
-      <img src="https://progress-bar.dev/88?scale=100&title=Advanced&width=200&color=00D8FF" alt="Full Stack"/>
-      <br><sub>React, Next.js, Node.js, TypeScript</sub>
-    </td>
-    <td align="center" width="25%">
-      <b>☁️ Cloud Native</b><br>
-      <img src="https://progress-bar.dev/90?scale=100&title=Expert&width=200&color=00D8FF" alt="Cloud"/>
-      <br><sub>AWS, GCP, Docker, Kubernetes</sub>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=W3JDev&show_icons=true&theme=radical&hide_border=true&bg_color=0A0E27&title_color=FFD700&icon_color=00D8FF&text_color=C0C0C0&include_all_commits=true&count_private=true&show_owner=true&border_color=8B5CF6" alt="GitHub Stats" height="220" />
     </td>
   </tr>
 </table>
 
-<!-- Real-time Language Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=W3JDev&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D8FF&text_color=ffffff&langs_count=8" alt="Top Languages" height="300"/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=W3JDev&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D8FF&text_color=ffffff&layout=compact" alt="Coding Activity" height="300"/>
-</p>
+<!-- Interactive Snake Game with Enhanced Styling -->
+<div style="background: linear-gradient(135deg, #0A0E27, #1a1f3a); border-radius: 15px; padding: 20px; margin: 20px 0;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/images/github-contribution-grid-snake-dark.svg">
+    <img src="./assets/images/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Game" width="100%" />
+  </picture>
+</div>
 
-<!-- Achievement Badges -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=W3JDev&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="Achievements"/>
-</p>
+</div>
+
+<!-- 🚀 JEWEL Tech Arsenal -->
+<div align="center">
+
+## <img src="./assets/svg/energy-core.svg" width="40" height="40" alt="Energy Core" style="vertical-align: middle;" /> AI-Powered Tech Arsenal
+
+<!-- Premium Tech Stack Icons with JEWEL Styling -->
+<div style="background: linear-gradient(135deg, #0A0E27, #1a1f3a); border-radius: 20px; padding: 25px; margin: 20px 0; border: 2px solid #FFD700;">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs,express,firebase,py,tensorflow,pytorch,aws,gcp,docker&theme=dark&perline=6" alt="Premium Tech Stack" />
+</div>
+
+<!-- Luxury Skill Progress Bars -->
+<table align="center" style="width: 100%; background: linear-gradient(135deg, #0A0E27, #1a1f3a); border-radius: 15px; padding: 20px; margin: 20px 0;">
+  <tr>
+    <td align="center" style="width: 25%; padding: 15px;">
+      <div style="color: #FFD700; font-weight: bold; margin-bottom: 10px;">🤖 AI Engineering</div>
+      <img src="https://progress-bar.dev/95?scale=100&title=Expert&width=200&color=FFD700&suffix=%20Luxury%20Level" alt="AI Engineering"/>
+      <br><small style="color: #C0C0C0;">GPT-4, Gemini, LangChain, Vector DBs</small>
+    </td>
+    <td align="center" style="width: 25%; padding: 15px;">
+      <div style="color: #00D8FF; font-weight: bold; margin-bottom: 10px;">⚡ Automation</div>
+      <img src="https://progress-bar.dev/92?scale=100&title=Expert&width=200&color=00D8FF&suffix=%20Premium" alt="Automation"/>
+      <br><small style="color: #C0C0C0;">GitHub Actions, N8N, Zapier, APIs</small>
+    </td>
+    <td align="center" style="width: 25%; padding: 15px;">
+      <div style="color: #8B5CF6; font-weight: bold; margin-bottom: 10px;">🌐 Full Stack</div>
+      <img src="https://progress-bar.dev/88?scale=100&title=Advanced&width=200&color=8B5CF6&suffix=%20Elite" alt="Full Stack"/>
+      <br><small style="color: #C0C0C0;">React, Next.js, Node.js, TypeScript</small>
+    </td>
+    <td align="center" style="width: 25%; padding: 15px;">
+      <div style="color: #C0C0C0; font-weight: bold; margin-bottom: 10px;">☁️ Cloud Native</div>
+      <img src="https://progress-bar.dev/90?scale=100&title=Expert&width=200&color=C0C0C0&suffix=%20Master" alt="Cloud"/>
+      <br><small style="color: #C0C0C0;">AWS, GCP, Docker, Kubernetes</small>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<!-- Language Analytics with JEWEL Theme -->
+<div align="center" style="margin: 30px 0;">
+  <table align="center" style="background: linear-gradient(135deg, #0A0E27, #1a1f3a); border-radius: 15px; padding: 20px; border: 2px solid #8B5CF6;">
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=W3JDev&layout=donut&theme=radical&hide_border=true&bg_color=0A0E27&title_color=FFD700&text_color=C0C0C0&langs_count=8&border_color=8B5CF6" alt="Top Languages" height="320"/>
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=W3JDev&theme=radical&hide_border=true&bg_color=0A0E27&title_color=FFD700&text_color=C0C0C0&layout=compact&border_color=8B5CF6" alt="Coding Activity" height="320"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Luxury Achievement Gallery -->
+<div align="center" style="background: linear-gradient(135deg, #0A0E27, #1a1f3a); border-radius: 20px; padding: 25px; margin: 20px 0; border: 2px solid #C0C0C0;">
+  <img src="https://github-profile-trophy.vercel.app/?username=W3JDev&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&title=Stars,Followers,Commits,PullRequest,Issues,Repositories" alt="Luxury Achievement Gallery"/>
+</div>
 
 <!-- Live Activity Dashboard -->
 ## 🎵 Real-Time Life Dashboard
@@ -314,14 +348,34 @@
 </table>
 </details>
 
----
+<!-- 🎮 Interactive Tech Playground with JEWEL Luxury -->
+<div align="center">
 
-## 🎮 Interactive Tech Playground
+<!-- Premium Wave Divider -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/svg/animated-wave.svg">
+  <img src="./assets/svg/animated-wave.svg" width="100%" height="120" alt="Elegant Wave Divider" />
+</picture>
 
-<!-- Energy Core Animation -->
-<p align="center">
-  <img src="./assets/svg/energy-core.svg" width="300" height="300" alt="Energy Core" />
-</p>
+## <img src="./assets/svg/glitch-effect.svg" width="200" height="50" alt="Glitch Effect" style="vertical-align: middle;" />
+
+<!-- Luxury Energy Core Animation -->
+<div style="background: radial-gradient(circle, #0A0E27, #1a1f3a); border-radius: 25px; padding: 30px; margin: 25px 0; border: 3px solid #FFD700;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/svg/energy-core.svg">
+    <img src="./assets/svg/energy-core.svg" width="300" height="300" alt="Luxury Energy Core" />
+  </picture>
+</div>
+
+<!-- Premium Animated Code Terminal -->
+<div style="background: linear-gradient(135deg, #0A0E27, #1a1f3a); border-radius: 20px; padding: 20px; margin: 25px 0; border: 2px solid #00D8FF;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/svg/animated-code.svg">
+    <img src="./assets/svg/animated-code.svg" width="700" height="250" alt="Luxury Code Animation" />
+  </picture>
+</div>
+
+</div>
 
 <!-- Mini Quiz Game -->
 <details>
@@ -418,44 +472,57 @@
 
 ## 🚧 Current Innovation Frontiers
 
-<table align="center" width="100%">
+<div align="center" style="background: linear-gradient(135deg, #0A0E27, #1a1f3a); border-radius: 20px; padding: 25px; margin: 20px 0; border: 2px solid #8B5CF6;">
+
+<table align="center" style="width: 100%;">
   <tr>
-    <td width="33%" align="center">
-      <img src="https://img.icons8.com/color/64/artificial-intelligence.png" alt="AI"/>
-      <br><b>🏢 Shop AI Enterprise Scaling</b>
-      <br><sub>Building multi-store architecture for global e-commerce brands</sub>
-      <br><sub>🔧 <i>Next.js 14 · Gemini Pro 1.5 · Microservices</i></sub>
-      <br><br>
-      <img src="https://progress-bar.dev/75?scale=100&title=Progress&width=150&color=00D8FF" alt="Progress"/>
+    <td style="width: 33%; text-align: center; padding: 20px;">
+      <div style="background: radial-gradient(circle, #FFD700, #FFA500); width: 80px; height: 80px; border-radius: 50%; margin: 0 auto 15px; display: flex; align-items: center; justify-content: center;">
+        <span style="font-size: 40px;">🏢</span>
+      </div>
+      <div style="color: #FFD700; font-weight: bold; font-size: 18px; margin-bottom: 10px;">Shop AI Enterprise Scaling</div>
+      <div style="color: #C0C0C0; margin-bottom: 10px;">Building multi-store architecture for global e-commerce brands</div>
+      <div style="color: #00D8FF; font-style: italic; margin-bottom: 15px;">Next.js 14 · Gemini Pro 1.5 · Microservices</div>
+      <img src="https://progress-bar.dev/75?scale=100&title=Progress&width=200&color=FFD700" alt="Progress"/>
     </td>
-    <td width="33%" align="center">
-      <img src="https://img.icons8.com/color/64/content.png" alt="Content"/>
-      <br><b>📝 AI Content Engine</b>
-      <br><sub>Automated blog & social content generation with SEO optimization</sub>
-      <br><sub>🔧 <i>GPT-4o · LangChain · Vector Search</i></sub>
-      <br><br>
-      <img src="https://progress-bar.dev/60?scale=100&title=Progress&width=150&color=00D8FF" alt="Progress"/>
+    <td style="width: 33%; text-align: center; padding: 20px;">
+      <div style="background: radial-gradient(circle, #00D8FF, #0080FF); width: 80px; height: 80px; border-radius: 50%; margin: 0 auto 15px; display: flex; align-items: center; justify-content: center;">
+        <span style="font-size: 40px;">📝</span>
+      </div>
+      <div style="color: #00D8FF; font-weight: bold; font-size: 18px; margin-bottom: 10px;">AI Content Engine</div>
+      <div style="color: #C0C0C0; margin-bottom: 10px;">Automated blog & social content generation with SEO optimization</div>
+      <div style="color: #8B5CF6; font-style: italic; margin-bottom: 15px;">GPT-4o · LangChain · Vector Search</div>
+      <img src="https://progress-bar.dev/60?scale=100&title=Progress&width=200&color=00D8FF" alt="Progress"/>
     </td>
-    <td width="33%" align="center">
-      <img src="https://img.icons8.com/color/64/restaurant.png" alt="F&B"/>
-      <br><b>🍽️ F&B Open Source Suite</b>
-      <br><sub>No-code tools for restaurant operations automation</sub>
-      <br><sub>🔧 <i>N8N · Supabase · Docker</i></sub>
-      <br><br>
-      <img src="https://progress-bar.dev/85?scale=100&title=Progress&width=150&color=00D8FF" alt="Progress"/>
+    <td style="width: 33%; text-align: center; padding: 20px;">
+      <div style="background: radial-gradient(circle, #8B5CF6, #6A4C93); width: 80px; height: 80px; border-radius: 50%; margin: 0 auto 15px; display: flex; align-items: center; justify-content: center;">
+        <span style="font-size: 40px;">🍽️</span>
+      </div>
+      <div style="color: #8B5CF6; font-weight: bold; font-size: 18px; margin-bottom: 10px;">F&B Open Source Suite</div>
+      <div style="color: #C0C0C0; margin-bottom: 10px;">No-code tools for restaurant operations automation</div>
+      <div style="color: #C0C0C0; font-style: italic; margin-bottom: 15px;">N8N · Supabase · Docker</div>
+      <img src="https://progress-bar.dev/85?scale=100&title=Progress&width=200&color=8B5CF6" alt="Progress"/>
     </td>
   </tr>
 </table>
 
-<!-- Animated Code Section -->
-<p align="center">
-  <img src="./assets/svg/animated-code.svg" width="600" height="200" alt="Animated Code" />
-</p>
+</div>
 
-<!-- Glitch Effect Banner -->
-<p align="center">
-  <img src="./assets/svg/glitch-effect.svg" width="400" height="100" alt="Glitch Effect" />
-</p>
+<!-- Premium Animated Code Terminal -->
+<div align="center" style="background: linear-gradient(135deg, #0A0E27, #1a1f3a); border-radius: 20px; padding: 20px; margin: 25px 0; border: 2px solid #00D8FF;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/svg/animated-code.svg">
+    <img src="./assets/svg/animated-code.svg" width="700" height="250" alt="Luxury Code Animation" />
+  </picture>
+</div>
+
+<!-- Luxury Glitch Effect Banner -->
+<div align="center" style="margin: 25px 0;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/svg/glitch-effect.svg">
+    <img src="./assets/svg/glitch-effect.svg" width="500" height="120" alt="Luxury Glitch Effect" />
+  </picture>
+</div>
 
 ---
 
@@ -498,50 +565,54 @@
   </tr>
 </table>
 
-<!-- Real-time Social Stats -->
-<p align="center">
-  <img src="https://img.shields.io/github/followers/W3JDev?label=GitHub%20Followers&style=social&color=00D8FF" alt="GitHub Followers"/>
-  <img src="https://img.shields.io/github/stars/W3JDev?affiliations=OWNER%2CCOLLABORATOR&style=social&color=00D8FF" alt="GitHub Stars"/>
-  <img src="https://komarev.com/ghpvc/?username=W3JDev&label=Profile%20views&color=00D8FF&style=flat" alt="Profile Views"/>
-</p>
+<!-- Luxury Social Analytics Dashboard -->
+<div align="center" style="background: linear-gradient(135deg, #0A0E27, #1a1f3a); border-radius: 20px; padding: 25px; margin: 25px 0; border: 2px solid #C0C0C0;">
+  <img src="https://img.shields.io/github/followers/W3JDev?label=GitHub%20Followers&style=for-the-badge&color=FFD700&labelColor=0A0E27&logo=github" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/stars/W3JDev?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=00D8FF&labelColor=0A0E27&logo=star" alt="GitHub Stars"/>
+  <img src="https://komarev.com/ghpvc/?username=W3JDev&label=Profile%20Views&color=8B5CF6&style=for-the-badge" alt="Profile Views"/>
+</div>
 
-<!-- Animated Closing Section -->
-<p align="center">
+<!-- Elegant Closing Section -->
+<div align="center">
+
+<!-- Final Wave Divider -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/svg/animated-wave.svg">
   <img src="./assets/svg/animated-wave.svg" width="100%" height="120" alt="Closing Wave" />
-</p>
+</picture>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=800&lines=%22Turning+complex+problems+into+elegant+solutions+since+2013%22;%22Where+creativity+meets+cutting-edge+technology%22;%22Building+tomorrow's+solutions+today%22" alt="Closing Quote" />
-</p>
+<!-- Luxury Closing Quote -->
+<div style="background: linear-gradient(135deg, #0A0E27, #1a1f3a); border-radius: 25px; padding: 30px; margin: 25px 0; border: 3px solid #FFD700;">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=28&duration=3000&pause=1000&color=FFD700&background=0A0E27&center=true&vCenter=true&multiline=true&width=900&height=120&lines=%22Turning+complex+problems+into+elegant+solutions+since+2013%22;%22Where+creativity+meets+cutting-edge+technology%22;%22Building+tomorrow's+solutions+with+luxury+precision%22" alt="Luxury Closing Quote" />
+</div>
 
-<!-- Call to Action -->
-<table align="center">
-  <tr>
-    <td align="center">
-      <h3>🚀 Ready to Transform Your Business with AI?</h3>
-      <p><b style="color:#00D8FF">I'm currently available for:</b></p>
-      <p>🤖 AI Consultancy & Strategy | 👨‍💼 Technical Leadership | 🛠️ Product Development</p>
-      <p>💡 Custom AI Solutions | 🔧 Automation Implementation | 📈 Business Optimization</p>
-      <br>
-      <a href="mailto:mnjewelps@gmail.com?subject=AI%20Collaboration%20Opportunity">
-        <img src="https://img.shields.io/badge/🤝%20Let's%20Collaborate-Start%20Conversation-00D8FF?style=for-the-badge" alt="Collaborate"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<!-- Premium Call to Action -->
+<div style="background: radial-gradient(circle, #FFD700, #FFA500); border-radius: 20px; padding: 25px; margin: 20px 0;">
+  <h3 style="color: #0A0E27; margin: 0; font-size: 24px;">🚀 Ready to Transform Your Business with AI?</h3>
+  <p style="color: #0A0E27; margin: 15px 0; font-weight: bold; font-size: 16px;">I'm currently available for:</p>
+  <p style="color: #0A0E27; margin: 10px 0;">🤖 AI Consultancy & Strategy | 👨‍💼 Technical Leadership | 🛠️ Product Development</p>
+  <p style="color: #0A0E27; margin: 10px 0;">💡 Custom AI Solutions | 🔧 Automation Implementation | 📈 Business Optimization</p>
+  <div style="margin: 20px 0;">
+    <a href="mailto:mnjewelps@gmail.com?subject=AI%20Collaboration%20Opportunity">
+      <img src="https://img.shields.io/badge/🤝%20Let's%20Collaborate-Start%20Conversation-0A0E27?style=for-the-badge&labelColor=FFD700&logo=email" alt="Collaborate"/>
+    </a>
+  </div>
+</div>
 
-<!-- Footer Stats -->
-<p align="center">
-  <sub>⭐ This profile updates automatically every 6 hours with fresh content ⭐</sub>
-  <br>
-  <sub>🎯 Last updated: <img src="https://img.shields.io/badge/dynamic/json?color=00D8FF&label=&query=updated&url=https://api.github.com/repos/W3JDev/W3JDev&style=flat-square&logo=github" alt="Last Updated"/></sub>
-</p>
+<!-- Footer Stats with JEWEL Theme -->
+<div style="margin: 30px 0; padding: 20px; background: linear-gradient(135deg, #0A0E27, #1a1f3a); border-radius: 15px; border: 1px solid #8B5CF6;">
+  <p style="color: #C0C0C0; margin: 5px 0;">⭐ This profile updates automatically every 6 hours with fresh content ⭐</p>
+  <p style="color: #C0C0C0; margin: 5px 0;">🎯 Last updated: <img src="https://img.shields.io/badge/dynamic/json?color=00D8FF&label=&query=updated&url=https://api.github.com/repos/W3JDev/W3JDev&style=flat-square&logo=github" alt="Last Updated"/></p>
+</div>
 
----
+<!-- Final Luxury Signature -->
+<div style="margin: 30px 0; color: #C0C0C0; font-style: italic;">
+  <p style="font-size: 18px; color: #FFD700;">🌟 "Innovation distinguishes between a leader and a follower" - Steve Jobs 🌟</p>
+  <div style="margin: 20px 0;">
+    <img src="https://img.shields.io/badge/Made%20with-❤️%20%26%20☕-FFD700?style=for-the-badge&labelColor=0A0E27" alt="Made with love"/>
+    <img src="https://img.shields.io/badge/Powered%20by-AI%20%26%20Human%20Creativity-00D8FF?style=for-the-badge&labelColor=0A0E27" alt="Powered by AI"/>
+  </div>
+  <p style="font-size: 12px; color: #8B5CF6;">© 2024 W3JDev - JEWEL Luxury Theme | Transforming Ideas into Reality</p>
+</div>
 
-<p align="center">
-  <i>🌟 "Innovation distinguishes between a leader and a follower" - Steve Jobs 🌟</i>
-  <br><br>
-  <img src="https://img.shields.io/badge/Made%20with-❤️%20%26%20☕-00D8FF?style=flat&labelColor=0d1117" alt="Made with love"/>
-  <img src="https://img.shields.io/badge/Powered%20by-AI%20%26%20Human%20Creativity-00D8FF?style=flat&labelColor=0d1117" alt="Powered by AI"/>
-</p>
+</div>
