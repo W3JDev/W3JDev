@@ -1,0 +1,47 @@
+name: Update Dynamic Content
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Every 6 hours
+  workflow_dispatch:  # Manual trigger
+  push:
+    branches: [ main, master ]
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+          
+      - name: Update visitor count
+        run: |
+          echo "Updating visitor statistics..."
+          # This would typically call an API to update visitor count
+          
+      - name: Update coding activity
+        run: |
+          echo "Fetching latest coding activity..."
+          # Fetch recent commits, PRs, etc.
+          
+      - name: Update music status
+        run: |
+          echo "Checking current music status..."
+          # Integration with Spotify/music APIs
+          
+      - name: Generate dynamic stats
+        run: |
+          echo "Generating latest statistics..."
+          # Generate fresh stats and update README if needed
+          
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git diff --staged --quiet || git commit -m "🤖 Auto-update dynamic content"
+          git push
