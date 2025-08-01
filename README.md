@@ -3,11 +3,16 @@
   All icons work (filtered from screenshot), stats center, and all is highly responsive.
 -->
 
+###
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3500&pause=1000&color=FFD700&background=0A0E27&width=900&height=45&lines=MN+Jewel+%7C+AI+Full+Stack+Developer+%7C+Luxury+Execution+%7C+F%26B%2C+Web3%2C+Automation+Expert" alt="Header" />
 </p>
 <p align="center">
-  <img src="https://github.com/W3JDev.png" width="108" style="border-radius:50%;" alt="MN Jewel avatar" /><br>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/w3jdev/w3jdev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/w3jdev/w3jdev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/w3jdev/w3jdev/output/pacman-contribution-graph.svg">
+</picture> <br>
   <img src="https://komarev.com/ghpvc/?username=W3JDev&label=Profile%20Views&color=FFD700&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/last-commit/W3JDev/W3JDev?color=00D8FF&label=Last%20Updated&style=for-the-badge" alt="Last Updated"/>
 </p>
