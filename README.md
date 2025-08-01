@@ -6,9 +6,18 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3300&pause=800&color=FFD700&center=true&vCenter=true&background=0A0E27&width=600&lines=MN+Jewel;AI+Full+Stack+Developer;Automation+%7C+F%26B+AI+Leader;Web3+Engineer;System+Design+Specialist;Open+to+Collaboration" alt="Animated Title" />
 </p>
 
+
+
+<H3>Hi there! 👋I'm <b>MN Jewel</b>, a passionate developer based in <b>Malaysia</b>. I thrive on creating innovative solutions and automating processes with code. Let's build something great together!
+</H3>
+
+<p>
+  I’m currently working at <b>w3j LLC</b> and have a keen interest in developing apps that supercharge productivity and efficiency.<br>
+  Always eager to learn and embrace new tech—whether it’s automating daily grind, deploying business-impact AI, or collaborating across global teams.<br><br>
+  <b align="center">If you love creative problem-solving and AI...</b><br>
+  <i>let’s connect, code, and turn ideas into reality!</i>
+</p>
 <p align="center">
-  <img src="https://github.com/W3JDev.png" width="108" style="border-radius:50%;" alt="MN Jewel avatar" />
-  <br>
   <img src="https://komarev.com/ghpvc/?username=W3JDev&label=Profile%20Views&color=FFD700&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/last-commit/W3JDev/W3JDev?color=00D8FF&label=Last%20Updated&style=for-the-badge" alt="Last Updated"/>
 </p>
