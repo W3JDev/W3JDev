@@ -1,56 +1,48 @@
 <!--
-  MN Jewel | W3JDev - Premium AI Full Stack Portfolio
-  All icons work (filtered from screenshot), stats center, and all is highly responsive.
+  MN Jewel | W3JDev - Pro Portfolio: Tight text cycling header, tight metrics, modern visuals.
 -->
 
-###
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3500&pause=1000&color=FFD700&background=0A0E27&width=900&height=45&lines=MN+Jewel+%7C+AI+Full+Stack+Developer+%7C+Luxury+Execution+%7C+F%26B%2C+Web3%2C+Automation+Expert" alt="Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3300&pause=800&color=FFD700&center=true&vCenter=true&background=0A0E27&width=600&lines=MN+Jewel;AI+Full+Stack+Developer;Automation+%7C+F%26B+AI+Leader;Web3+Engineer;System+Design+Specialist;Open+to+Collaboration" alt="Animated Title" />
 </p>
+
 <p align="center">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/w3jdev/w3jdev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/w3jdev/w3jdev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/w3jdev/w3jdev/output/pacman-contribution-graph.svg">
-</picture> <br>
+  <img src="https://github.com/W3JDev.png" width="108" style="border-radius:50%;" alt="MN Jewel avatar" />
+  <br>
   <img src="https://komarev.com/ghpvc/?username=W3JDev&label=Profile%20Views&color=FFD700&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/last-commit/W3JDev/W3JDev?color=00D8FF&label=Last%20Updated&style=for-the-badge" alt="Last Updated"/>
 </p>
 
----
+
 
 ## 🚀 Tech Arsenal
+<div align="center">
 
+<b>🏅 Impact & Excellence Metrics</b>
+
+<table>
+  <tr>
+    <th>🚀 ROI</th>
+    <th>⏳ Saved</th>
+    <th>🔥 Conversion</th>
+    <th>🤖 AI</th>
+    <th>📦 Txns</th>
+  </tr>
+  <tr>
+    <td align="center"><b>300%</b></td>
+    <td align="center"><b>95%</b></td>
+    <td align="center"><b>82%</b></td>
+    <td align="center"><b>25+</b></td>
+    <td align="center"><b>3,500+</b></td>
+  </tr>
+</table>
+
+</div>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,react,nextjs,ts,nodejs,express,html,aws,docker,kubernetes,py,jupyter,azure,git,github,figma,vscode,netlify,linux,ps,r,go,java,sql,mongodb,redis,nginx&theme=dark&perline=14" alt="Tech stack grid" />
 </p>
 
----
 
-## 🏅 Impact & Excellence Metrics
-
-<p align="center">
-
-| 🚀 ROI | ⏳ Time Saved | 🔥 Conversion | 🤖 AI Deployed | 📦 Txns |
-|:------:|:------------:|:-------------:|:--------------:|:------:|
-| 300%   | 95%          | 82%           | 25+            | 3,500+ |
-
-</p>
-
----
-
-## 📊 GitHub Highlights
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=W3JDev&theme=github-compact&bg_color=0d1117&color=00D8FF&line=00D8FF&point=ffffff&area=true&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=W3JDev&layout=compact&theme=radical&hide_border=true&bg_color=0A0E27&title_color=FFD700&text_color=C0C0C0" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=W3JDev&theme=flat&no-frame=true&margin-w=10&column=6&title=Commits,Stars,Followers,Repositories,PullRequest,Issues,Midler,Star,Repository" alt="Trophies" />
-</p>
-
----
 
 ## 🚀 Featured Projects
 
@@ -72,7 +64,24 @@
   </a>
 </p>
 
----
+
+
+## 🏆 Career Milestones & Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=W3JDev&theme=flat&no-frame=true&margin-w=10&column=6&title=Commits,Stars,Followers,Repositories,PullRequest,Issues,Midler,Star,Repository" alt="Trophies" />
+</p>
+
+
+## 📊 GitHub Highlights
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=W3JDev&theme=github-compact&bg_color=0d1117&color=00D8FF&line=00D8FF&point=ffffff&area=true&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=W3JDev&layout=compact&theme=radical&hide_border=true&bg_color=0A0E27&title_color=FFD700&text_color=C0C0C0" height="160" />
+</p>
+
+
+
 
 ## 🌟 Featured Open Source: Employee Attendance System
 
@@ -87,7 +96,7 @@
   </a>
 </details>
 
----
+
 
 ## 🌐 Connect & Collaborate
 
