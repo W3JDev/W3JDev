@@ -62,7 +62,7 @@
   <a href="https://github.com/W3JDev/Waiter_Ai">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=W3JDev&repo=Waiter_Ai&theme=dark&hide_border=true" alt="Waiter_Ai" />
   </a>
-  <a href="https://github.com/W3JDev/PUNCH-CLOCK">
+  <a href="https://github.com/W3JDev/PUNCHCLOCK">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=W3JDev&repo=PUNCH-CLOCK&theme=dark&hide_border=true" alt="PUNCH-CLOCK" />
   </a>
   <a href="https://github.com/W3JDev/artisanai-ats-1pager-resume-coverletter-builder">
