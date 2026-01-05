@@ -67,8 +67,8 @@
 
 <p align="center">
   <!-- PUNCHCLOCK: The Enterprise HR OS -->
-  <a href="https://github.com/W3JDev/PUNCHCLOCK">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=W3JDev&repo=PUNCH-CLOCK&theme=dark&hide_border=true&description_lines=2" alt="PUNCH-CLOCK" />
+  <a href="https://github.com/W3JDev/punchclock-demo">
+    <img src="https://res.cloudinary.com/dxyodhkwk/image/upload/v1767602353/PunchClock_w3jdev_qxvvf9.png" alt="PUNCH-CLOCK" />
   </a>
   <!-- VINE AI: The Revenue Generator (Renamed/Linked correctly) -->
   <a href="https://github.com/W3JDev/Vine_Ai">
@@ -81,20 +81,20 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=W3JDev&repo=DIGIBIZ-COPILOT&theme=dark&hide_border=true&description_lines=2" alt="DigiBiz Copilot" />
   </a>
   <!-- WAITER AI: The Service Automation -->
-  <a href="https://github.com/W3JDev/Waiter_Ai">
+  <a href="https://github.com/W3JDev/MenuMuze_The_WaiterAi-demo">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=W3JDev&repo=Waiter_Ai&theme=dark&hide_border=true&description_lines=2" alt="Waiter_Ai" />
   </a>
 </p>
 
 <details>
-  <summary><b>📂 View More Creative Projects (GuestAi, ArtisanAI, etc.)</b></summary>
+  <summary><b>📂 View More Creative Projects (SuaraKira, Youtube2Guide, etc.)</b></summary>
   <br>
   <p align="center">
-    <a href="https://github.com/W3JDev/GuestAi">
+    <a href="https://github.com/W3JDev/SuaraKira-demo">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=W3JDev&repo=GuestAi&theme=dark&hide_border=true" alt="GuestAi" />
     </a>
-    <a href="https://github.com/W3JDev/artisanai-ats-1pager-resume-coverletter-builder">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=W3JDev&repo=artisanai-ats-1pager-resume-coverletter-builder&theme=dark&hide_border=true" alt="ArtisanAI" />
+    <a href="https://github.com/W3JDev/V2L-Youtube2Guide-demo">
+      <img src="" alt="V2L" />
     </a>
   </p>
 </details>
