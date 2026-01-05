@@ -372,5 +372,3 @@
 
 ---
 
-- Replace the placeholder URLs with your actual image URLs
-- Ensure images are properly sized (recommended: 300x150px for consistency)
