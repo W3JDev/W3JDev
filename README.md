@@ -154,7 +154,7 @@
     <td width="33%" valign="top" align="center">
       <h3>🔧 PUNCHCLOCK</h3>
       <a href="https://github.com/W3JDev/punchclock-demo">
-        <img src="https://res.cloudinary.com/dxyodhkwk/image/upload/v1767602353/PunchClock_w3jdev_qxvvf9.png" width="300" alt="PUNCHCLOCK" />
+        <img src="https://res.cloudinary.com/dxyodhkwk/image/upload/v1767602353/PunchClock_w3jdev_qxvvf9.png" width="300" alt="PUNCHCLOCK Dashboard" />
       </a>
       <p><b>AI-Powered HR Operating System</b></p>
       <p>📍 Malaysian SMEs | 🎯 95% time saved | ✅ Zero compliance errors</p>
@@ -163,7 +163,7 @@
     <td width="33%" valign="top" align="center">
       <h3>🍷 VINEAI</h3>
       <a href="https://github.com/W3JDev/Vine_Ai">
-        <img src="https://via.placeholder.com/300x150/6633FF/FFFFFF?text=VINEAI+Wine+Pairing+Engine" width="300" alt="VINEAI" />
+        <img src="https://via.placeholder.com/300x150/6633FF/FFFFFF?text=VINEAI+Wine+Pairing+Engine" width="300" alt="VINEAI Interface" />
       </a>
       <p><b>AI Wine Recommendation Engine</b></p>
       <p>📍 50+ SE Asia restaurants | 🎯 35% ticket increase | 💰 300% ROI</p>
@@ -172,7 +172,7 @@
     <td width="33%" valign="top" align="center">
       <h3>🤖 FLAIRAI</h3>
       <a href="https://github.com/W3JDev/MenuMuze_The_WaiterAi-demo">
-        <img src="https://via.placeholder.com/300x150/FF3366/FFFFFF?text=FLAIRAI+Voice+Coach" width="300" alt="FLAIRAI" />
+        <img src="https://via.placeholder.com/300x150/FF3366/FFFFFF?text=FLAIRAI+Voice+Coach" width="300" alt="FLAIRAI Training Interface" />
       </a>
       <p><b>Real-Time Multilingual Voice Coach</b></p>
       <p>📍 Hospitality training | 🎯 40% faster onboarding | ⚡ <300ms latency</p>
@@ -191,39 +191,31 @@
 
 </div>
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <h4>🏗️ Architected AI-Centric Backend Services</h4>
-      <ul>
-        <li><b>Python FastAPI + LangChain</b> LLM orchestration</li>
-        <li><b>Multi-LLM strategy</b>: Azure OpenAI + Google Gemini</li>
-        <li><b>Document extraction/classification</b> at terabyte scale</li>
-        <li><b>70% manual review time reduction</b></li>
-        <li>Decision latency: <b>Days → Minutes</b></li>
-      </ul>
-      
-      <h4>🔐 Enterprise-Grade Implementation</h4>
-      <ul>
-        <li><b>ISO 27001 & GDPR compliant</b> architecture</li>
-        <li><b>LDAP/OAuth2</b> enterprise authentication</li>
-        <li><b>MongoDB + Azure Blob Storage</b> for high-volume data</li>
-        <li><b>Multi-channel UI/UX</b> with 140-language translation</li>
-        <li><b>Zero security incidents</b> maintained</li>
-      </ul>
-    </td>
-    <td width="40%" valign="top" align="center">
-      <div style="background: linear-gradient(135deg, #0A0E27 0%, #1A1F4A 100%); padding: 20px; border-radius: 10px; border: 2px solid #00D8FF;">
-        <h3 style="color: #00D8FF;">⚡ IMPACT METRICS</h3>
-        <p><b>70%</b> Manual Review Time Reduction</p>
-        <p><b>Days → Minutes</b> Decision Latency</p>
-        <p><b>Terabyte</b> Monthly Data Processing</p>
-        <p><b>140+</b> Language Translation Support</p>
-        <p><b>Zero</b> Security Incidents</p>
-      </div>
-    </td>
-  </tr>
-</table>
+#### 🏗️ Architected AI-Centric Backend Services
+- **Python FastAPI + LangChain** LLM orchestration
+- **Multi-LLM strategy**: Azure OpenAI + Google Gemini
+- **Document extraction/classification** at terabyte scale
+- **70% manual review time reduction**
+- Decision latency: **Days → Minutes**
+
+#### 🔐 Enterprise-Grade Implementation
+- **ISO 27001 & GDPR compliant** architecture
+- **LDAP/OAuth2** enterprise authentication
+- **MongoDB + Azure Blob Storage** for high-volume data
+- **Multi-channel UI/UX** with 140-language translation
+- **Zero security incidents** maintained
+
+#### ⚡ IMPACT METRICS
+
+```
+┌─────────────────────────┬───────────────────┐
+│ Manual Review Time      │ 70% Reduction     │
+│ Decision Latency        │ Days → Minutes    │
+│ Monthly Data Processing │ Terabyte-scale    │
+│ Language Support        │ 140+ Languages    │
+│ Security Incidents      │ Zero              │
+└─────────────────────────┴───────────────────┘
+```
 
 ---
 
@@ -234,7 +226,7 @@
 ### ⚙️ DEVELOPMENT ACTIVITY (2025)
 
 <a href="https://githubwrapped.xyz/w3jdev">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=W3JDev&theme=github-compact&bg_color=0d1117&color=00D8FF&line=00D8FF&point=FFD700&area=true&area_color=00D8FF&hide_border=true&custom_title=2025+Engineering+Velocity" width="800" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=W3JDev&theme=github-compact&bg_color=0d1117&color=00D8FF&line=00D8FF&point=FFD700&area=true&area_color=00D8FF&hide_border=true&custom_title=2025+Engineering+Velocity" width="800" alt="GitHub Activity Graph" />
 </a>
 
 <table>
@@ -267,18 +259,21 @@
       <p><b>Real-Time Speech Analytics Engine</b></p>
       <p>Python, Whisper, Sentiment Analysis</p>
       <p>📍 Customer service optimization</p>
+      <a href="https://github.com/W3JDev/SuaraKira-demo">View Repository →</a>
     </td>
     <td width="33%" valign="top">
       <h4>📚 YOUTUBE2GUIDE</h4>
       <p><b>Video → Structured Learning System</b></p>
       <p>RAG, NLP, Automated summarization</p>
       <p>📍 EdTech knowledge extraction</p>
+      <a href="https://github.com/W3JDev/V2L-Youtube2Guide-demo">View Repository →</a>
     </td>
     <td width="33%" valign="top">
       <h4>🤖 AUTO-MENU-MUZE</h4>
       <p><b>Restaurant Menu AI Generator</b></p>
       <p>GPT-4, Image Recognition, Multi-language</p>
       <p>📍 F&B digital transformation</p>
+      <a href="https://github.com/W3JDev/MenuMuze_The_WaiterAi-demo">View Repository →</a>
     </td>
   </tr>
 </table>
@@ -374,3 +369,8 @@
 **🏆 GitHired Score: 92.8/100 | 🚀 1,799 Contributions in 2025 | 🔐 Zero Security Incidents**
 
 </div>
+
+---
+
+- Replace the placeholder URLs with your actual image URLs
+- Ensure images are properly sized (recommended: 300x150px for consistency)
