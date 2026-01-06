@@ -171,7 +171,7 @@
     </td>
     <td width="33%" valign="top" align="center">
       <h3>🤖 FLAIRAI</h3>
-      <a href="https://github.com/W3JDev/MenuMuze_The_WaiterAi-demo">
+      <a href="https://github.com/W3JDev/FlairAi">
         <img src="https://via.placeholder.com/300x150/FF3366/FFFFFF?text=FLAIRAI+Voice+Coach" width="300" alt="FLAIRAI Training Interface" />
       </a>
       <p><b>Real-Time Multilingual Voice Coach</b></p>
