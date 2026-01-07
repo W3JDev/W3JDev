@@ -7,7 +7,7 @@
 </picture>
 
 <!-- PREMIUM TYPING ANIMATION -->
-<img 
+<img
  src="https://readme-typing-svg.vercel.app?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=I+Saved+My+Mother's+Life+Using+AI+%F0%9F%92%9B;Now+I+Build+Systems+That+Save+1%2C200%2B+Hours+Annually+%E2%9A%A1;Serving+15%2C000%2B+Daily+Active+Users+%F0%9F%9A%80;Let's+Build+Something+Legendary+Together+%E2%9C%A8"
  alt="Typing SVG"
 />
@@ -78,6 +78,7 @@
 I'm an **operator-turned-engineer** who learned to code out of **desperation**—and built systems that now **serve 15,000+ people daily**.
 
 **My Journey:**
+
 - 🌾 Born in a **rural village in Bangladesh** (no electricity, cycled 6 miles through mud to school)
 - 🍽️ **10 years in F&B operations**—drowning in 40-hour payroll tasks, attendance fraud, messy spreadsheets
 - 💔 **2023:** My mother was given **3 days to live** (terminal cancer)
@@ -153,89 +154,108 @@ I'm an **operator-turned-engineer** who learned to code out of **desperation**�
 
 <div align="center">
 
-### 🍽️ **Flair — AI-Powered F&B Platform**
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/W3JDev/FlairAi)
-[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://github.com/W3JDev/FlairAi)
-[![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](https://github.com/W3JDev/FlairAi)
-[![Stars](https://img.shields.io/github/stars/W3JDev/FlairAi?style=social)](https://github.com/W3JDev/FlairAi)
+### Production-grade systems serving 15,000+ daily users
 
-**Real-time digital menu builder with AI-driven personalization**
+<sub>🏆 Enterprise deployments | 🚀 99.99% uptime | 📈 Proven ROI</sub>
 
-```yaml
-🎯 Impact:
-  - Deployed: 200+ Malaysian restaurants
-  - Sales Uplift: +15% average
-  - Uptime: 99.99%
-  - Tech Stack: React + TypeScript + GCP + Firestore
-```
+<br/>
 
-<a href="https://github.com/W3JDev/FlairAi">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-FFD700?style=for-the-badge&logo=github&logoColor=0A0E14" alt="View Project"/>
-</a>
+<table style="margin: 0 auto;">
+<tr>
+<td width="50%" align="center">
 
-<br/><br/>
+#### 🍽️ **Flair**
 
----
+**AI-Powered F&B Platform**
 
-### ⏰ **PunchClock — HR Automation for Factories**
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://github.com/W3JDev/punchclock-demo)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://github.com/W3JDev/punchclock-demo)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/W3JDev/punchclock-demo)
-
-**Biometric attendance system cutting payroll from 40h → 2h monthly**
+[![Live](https://img.shields.io/badge/•_View_Project-FFD700?style=for-the-badge)](https://github.com/W3JDev/FlairAi)
 
 ```yaml
 🎯 Impact:
-  - Active Users: 15,000+ employees
-  - Time Reduction: 95% (40h → 2h)
-  - Penalties Eliminated: Zero in 12 months
-  - Tech Stack: FastAPI + K8s + PostgreSQL + Redis
+  Deployed: 200+ Malaysian restaurants
+  Sales Uplift: +15% average
+  Uptime: 99.99%
+  Stack: React + TypeScript + GCP
 ```
 
-<a href="https://github.com/W3JDev/punchclock-demo">
-  <img src="https://img.shields.io/badge/VIEW_DEMO-00FFA3?style=for-the-badge&logo=github&logoColor=0A0E14" alt="View Demo"/>
-</a>
+</td>
+<td width="50%" align="center">
 
-<br/><br/>
+#### ⏰ **PunchClock**
 
----
+**HR Automation for Factories**
 
-### 🍷 **VineAI — AI Wine Sommelier**
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/W3JDev/VineAI)
-[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)](https://github.com/W3JDev/VineAI)
-[![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logoColor=white)](https://github.com/W3JDev/VineAI)
-
-**RAG pipeline for personalized wine recommendations**
+[![Live](https://img.shields.io/badge/•_View_Demo-00FFA3?style=for-the-badge)](https://github.com/W3JDev/punchclock-demo)
 
 ```yaml
 🎯 Impact:
-  - Deployments: 50 restaurants (SE Asia)
-  - Ticket Size: +35% increase
-  - ROI: 300% average
-  - Tech Stack: Python + OpenAI + LangChain + Pinecone
+  Active Users: 15,000+ employees
+  Time Reduction: 95% (40h → 2h)
+  Penalties: Zero in 12 months
+  Stack: FastAPI + K8s + PostgreSQL
 ```
 
-<a href="https://github.com/W3JDev/VineAI">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-FF006E?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
-</a>
+</td>
+</tr>
 
-<br/><br/>
+<tr>
+<td width="50%" align="center">
 
----
+#### 🍷 **VineAI**
 
-### 🏢 **CMA CGM Enterprise AI** (Fortune 500)
-[![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)](#)
-[![Confidential](https://img.shields.io/badge/🔒_CONFIDENTIAL-1A1A2E?style=flat-square)](#)
+**AI Wine Sommelier**
 
-**Multi-channel AI compliance assistant (Aug-Dec 2025)**
+[![Live](https://img.shields.io/badge/•_View_Project-FF006E?style=for-the-badge)](https://github.com/W3JDev/VineAI)
 
 ```yaml
 🎯 Impact:
-  - Manual Reduction: 70%
-  - Cost Avoidance: $3M annually
-  - Security Incidents: Zero
-  - Tech Stack: Azure OpenAI + Kubernetes + Enterprise Security
+  Deployments: 50 restaurants (SE Asia)
+  Ticket Size: +35% increase
+  ROI: 300% average
+  Stack: Python + OpenAI + LangChain
 ```
+
+</td>
+<td width="50%" align="center">
+
+#### 📊 **MenuMuze**
+
+**NLP Menu Recommender**
+
+[![Live](https://img.shields.io/badge/•_View_Project-8E7CC3?style=for-the-badge)](https://github.com/W3JDev/MenuMuze_The_WaiterAi-demo)
+
+```yaml
+🎯 Impact:
+  Upsell Increase: 22% measured
+  Technology: NLP query processing
+  Features: Real-time dietary filters
+  Stack: Python + NLP + FastAPI
+```
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+#### 🏢 **CMA CGM Enterprise AI**
+
+**Fortune 500 Logistics AI** (Confidential)
+
+[![Azure](https://img.shields.io/badge/🔒_Enterprise_Project-0078D4?style=for-the-badge)](#)
+
+```yaml
+🎯 Impact:
+  Manual Reduction: 70%
+  Cost Avoidance: $3M annually
+  Security Incidents: Zero
+  Stack: Azure OpenAI + Kubernetes + Enterprise Security
+  Timeline: Aug-Dec 2025
+```
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -252,7 +272,7 @@ I'm an **operator-turned-engineer** who learned to code out of **desperation**�
 </div>
 
 <details>
-<summary><b>🔍 Click to explore 5 additional cutting-edge projects →</b></summary>
+<summary><b>🔍 Click to explore 4 additional cutting-edge projects →</b></summary>
 
 <br/>
 
@@ -263,6 +283,7 @@ I'm an **operator-turned-engineer** who learned to code out of **desperation**�
 <td width="50%" align="center">
 
 #### 📄 **ArtisanAI**
+
 **ATS Resume Builder**
 
 [![Demo](https://img.shields.io/badge/•_Live_Demo-00FFA3?style=for-the-badge)](https://github.com/W3JDev/ArtisanAi.v2-ATS-friendly-one-pager-resume-builder-demo)
@@ -278,13 +299,14 @@ I'm an **operator-turned-engineer** who learned to code out of **desperation**�
 <td width="50%" align="center">
 
 #### 🎙️ **SuaraKira**
+
 **Voice Fintech PWA**
 
-[![Winner](https://img.shields.io/badge/🏆_Hackathon_Winner-FFD700?style=for-the-badge)](https://github.com/W3JDev/SuaraKira-demo)
+[![Hackathon](https://img.shields.io/badge/Cursor_AI_Hackathon-FFD700?style=for-the-badge)](https://github.com/W3JDev/SuaraKira-demo)
 
 ```yaml
-🎯 Achievement:
-  Award: Cursor AI Hackathon (Dec 2024)
+🎯 Built For:
+  Event: Cursor AI Hackathon (Dec 2024)
   Features: Voice-powered expense tracking
   Support: 3 languages, offline mode
 ```
@@ -296,6 +318,7 @@ I'm an **operator-turned-engineer** who learned to code out of **desperation**�
 <td width="50%" align="center">
 
 #### 🚀 **GitLaunch-AI**
+
 **Instant Landing Pages**
 
 [![Live](https://img.shields.io/badge/•_Try_Now-FF006E?style=for-the-badge)](https://github.com/W3JDev/GitLaunch-AI-demo)
@@ -311,6 +334,7 @@ I'm an **operator-turned-engineer** who learned to code out of **desperation**�
 <td width="50%" align="center">
 
 #### 🎥 **V2L-Youtube2Guide**
+
 **Learning Content Transformer**
 
 [![Demo](https://img.shields.io/badge/•_View_Demo-0077B5?style=for-the-badge)](https://github.com/W3JDev/V2L-Youtube2Guide-demo)
@@ -325,23 +349,6 @@ I'm an **operator-turned-engineer** who learned to code out of **desperation**�
 </td>
 </tr>
 
-<tr>
-<td colspan="2" align="center">
-
-#### 📊 **MenuMuze (WaiterAI)**
-**NLP Menu Recommendation Engine**
-
-[![GitHub](https://img.shields.io/github/stars/W3JDev/MenuMuze_The_WaiterAi-demo?style=social&label=Star%20on%20GitHub)](https://github.com/W3JDev/MenuMuze_The_WaiterAi-demo)
-
-```yaml
-🎯 Performance:
-  Upsell Increase: 22% measured
-  Technology: Natural language query processing
-  Features: Real-time dietary restriction filtering
-```
-
-</td>
-</tr>
 </table>
 
 </div>
@@ -355,11 +362,11 @@ I'm an **operator-turned-engineer** who learned to code out of **desperation**�
 <div align="center">
 
 <!-- SKILLS MATRIX -->
-<table width="95%">
+<table width="90%">
   <tr>
-    <th width="33%">💻 Languages</th>
-    <th width="33%">🎨 Frontend</th>
-    <th width="33%">⚙️ Backend</th>
+    <th width="33%"><h3>💻 Languages</h3></th>
+    <th width="33%"><h3>🎨 Frontend</h3></th>
+    <th width="33%"><h3>⚙️ Backend</h3></th>
   </tr>
   <tr>
     <td align="center">
@@ -374,16 +381,16 @@ I'm an **operator-turned-engineer** who learned to code out of **desperation**�
   </tr>
   
   <tr>
-    <th width="33%">🤖 AI/ML</th>
-    <th width="33%">☁️ Cloud & DevOps</th>
-    <th width="33%">🗄️ Databases</th>
+    <th width="33%"><h3>🤖 AI/ML</h3></th>
+    <th width="33%"><h3>☁️ Cloud & DevOps</h3></th>
+    <th width="33%"><h3>🗄️ Databases</h3></th>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Gemini-8E7CC3?style=for-the-badge&logo=google&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Claude-191919?style=for-the-badge&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/Gemini-8E7CC3?style=flat-square&logo=google&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Claude-191919?style=flat-square&logoColor=white" />
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white" />
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=gcp,azure,aws,docker" /><br/>
@@ -395,7 +402,7 @@ I'm an **operator-turned-engineer** who learned to code out of **desperation**�
   </tr>
   
   <tr>
-    <th colspan="3">🔧 Tools & Platforms</th>
+    <th colspan="3"><h3>🔧 Tools & Platforms</h3></th>
   </tr>
   <tr>
     <td colspan="3" align="center">
@@ -553,7 +560,7 @@ I'm an **operator-turned-engineer** who learned to code out of **desperation**�
 
 <div align="center">
 
-### 🚀 I'm Currently Available for:
+### 🚀 I'm Currently Available for
 
 ✅ **Full-time roles** (Remote or Singapore-based)  
 ✅ **Contract projects** (AI automation, full-stack development)  
@@ -621,13 +628,14 @@ I'm an **operator-turned-engineer** who learned to code out of **desperation**�
 <br/>
 
 > ### **"From saving my mother's life to saving 1,200+ hours for 200+ businesses"**
-> ### I build systems that matter. Let's create something legendary together.
+>
+> ### I build systems that matter. Let's create something legendary together
 
 <br/>
 
 <!-- FOOTER STATS -->
 <sub>
-  <b>Last Updated:</b> January 2026 | 
+  <b>Last Updated:</b> January 2026 |
   <b>Status:</b> <img src="https://img.shields.io/badge/Available-NOW-00FFA3?style=flat-square" alt="Available"/> |
   <b>Location:</b> 🇲🇾 Malaysia (Open to Singapore/Remote)
 </sub>
