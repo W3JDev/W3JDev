@@ -191,8 +191,14 @@ AI Landing Page Generator from GitHub Repos | DevTools
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=W3JDev&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=W3JDev&layout=compact&theme=radical&hide_border=true&hide=html,css&langs_count=8" alt="Top Languages" height="170" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=W3JDev&theme=radical&hide_border=true" alt="GitHub Streak" height="180" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=W3JDev&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=W3JDev&layout=compact&theme=radical&hide_border=true&hide=html,css&langs_count=8" alt="Top Languages" height="170" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=W3JDev&theme=radical&no-frame=true&row=1&column=7" alt="Trophies" />
 
