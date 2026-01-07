@@ -1,7 +1,7 @@
 <div align="center">
 
 <img 
- src="https://readme-typing-svg.vercel.app?font=JetBrains+Mono&weight=800&size=32&duration=3500&pause=1000&color=00D8FF&center=true&vCenter=true&background=0A0E2700&width=900&height=60&lines=Senior+Full-Stack+Engineer+%7C+AI+Architect;Building+Production+Systems+for+Malaysian+SMEs;888+Commits+in+2025+%7C+Verified+93%2F100"
+ src="https://readme-typing-svg.vercel.app?font=JetBrains+Mono&weight=800&size=32&duration=3500&pause=1000&color=FFA500&center=true&vCenter=true&background=0A0E2700&width=900&height=60&lines=Senior+Full-Stack+Engineer+%7C+AI+Architect;Building+Production+Systems+for+Malaysian+SMEs;888+Commits+in+2025+%7C+Verified+93%2F100"
  alt="Typing SVG"
  width="800"
  style="max-width:100%; display:block; margin:0 auto;"
