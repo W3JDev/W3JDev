@@ -91,50 +91,7 @@ I'm an **operator-turned-engineer** who learned to code out of **desperation**�
 
 <br clear="right"/>
 
----
 
-## 🔥 Proof: The Receipts (2024-2026)
-
-<div align="center">
-
-<!-- ANIMATED METRICS GRID -->
-<table>
-  <tr>
-    <td align="center" width="16.66%">
-      <img src="https://img.icons8.com/fluency/96/000000/hourglass-sand-bottom.png" width="48"/><br/>
-      <h3>1,200+</h3>
-      <sub>Hours Saved/Year</sub>
-    </td>
-    <td align="center" width="16.66%">
-      <img src="https://img.icons8.com/fluency/96/000000/money-bag.png" width="48"/><br/>
-      <h3>$80K+</h3>
-      <sub>Revenue Generated</sub>
-    </td>
-    <td align="center" width="16.66%">
-      <img src="https://img.icons8.com/fluency/96/000000/user-group-man-man.png" width="48"/><br/>
-      <h3>15,000+</h3>
-      <sub>Daily Users</sub>
-    </td>
-    <td align="center" width="16.66%">
-      <img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="48"/><br/>
-      <h3>300%+</h3>
-      <sub>Average ROI</sub>
-    </td>
-    <td align="center" width="16.66%">
-      <img src="https://img.icons8.com/fluency/96/000000/company.png" width="48"/><br/>
-      <h3>200+</h3>
-      <sub>SME Clients</sub>
-    </td>
-    <td align="center" width="16.66%">
-      <img src="https://img.icons8.com/fluency/96/000000/system-task.png" width="48"/><br/>
-      <h3>15</h3>
-      <sub>Production Systems</sub>
-    </td>
-  </tr>
-</table>
-
-<!-- TECHNOLOGY RADAR -->
-<br/>
 
 ```text
     ⭐ PRIMARY EXPERTISE ⭐
@@ -468,17 +425,6 @@ I'm an **operator-turned-engineer** who learned to code out of **desperation**�
 </td>
 </tr>
 </table>
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<!-- CONTRIBUTION GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=w3jdev&bg_color=0A0E14&color=FFD700&line=FF006E&point=00FFA3&area=true&hide_border=true&custom_title=📈%20Contribution%20Activity%20Graph" alt="Contribution Graph" width="98%"/>
 
 </div>
 
