@@ -158,6 +158,7 @@ LLM judges, rating scales and a gateway key.</sub>
   Does: lead capture · Cal.com booking
         · human takeover
   Platform: multi-tenant · dashboard
+  Offer: managed AI agent from $499/mo
   Stack: FastAPI + Supabase + multi-agent
          reply pipeline
 ```
@@ -228,6 +229,7 @@ LLM judges, rating scales and a gateway key.</sub>
 
 ```yaml
 🎯 Built:
+  Review cycles: cut to under 30 minutes
   Retrieval pipeline + conversational UI for logistics documentation
   Explanation layer: operators see why a document was classified
   Inside enterprise auth (LDAP / OAuth2)
@@ -511,7 +513,6 @@ LLM judges, rating scales and a gateway key.</sub>
 
 ---
 
-<!-- Testimonials hidden pending permission + source confirmation (see W3J docs/showcase/PROFILE-HANDOFF.md §7).
 ## 💬 Testimonials & Social Proof
 
 <div align="center">
@@ -527,9 +528,7 @@ LLM judges, rating scales and a gateway key.</sub>
 
 </div>
 
-- --
-
--->
+---
 
 ## 📫 Let's Build Something Together
 
