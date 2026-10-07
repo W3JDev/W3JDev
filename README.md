@@ -134,13 +134,11 @@ LLM judges, rating scales and a gateway key.</sub>
 
 ---
 
-## 🏆 Featured Projects: Production Systems at Scale
+## 🏆 Featured Work — measured outcomes
 
 <div align="center">
 
-### Production-grade systems serving 15,000+ daily users
-
-<sub>🏆 Enterprise deployments | 🚀 99.99% uptime | 📈 Proven ROI</sub>
+<sub>🔒 Enterprise work is shown without client or employer names (NDA). Every figure below is measured, not estimated.</sub>
 
 <br/>
 
@@ -148,35 +146,37 @@ LLM judges, rating scales and a gateway key.</sub>
 <tr>
 <td width="50%" align="center">
 
-#### 🍽️ **Flair**
+#### 🛠️ **Company-wide IT Service Agent**
 
-**AI-Powered F&B Platform**
+**US technology services group** · 2026
 
-[![Live](https://img.shields.io/badge/•_View_Project-FFD700?style=for-the-badge)](https://github.com/W3JDev/FlairAi)
+![Enterprise](https://img.shields.io/badge/🔒_Enterprise-Confidential-0078D4?style=for-the-badge)
 
 ```yaml
 🎯 Impact:
-  Deployed: 200+ Malaysian restaurants
-  Sales Uplift: +15% average
-  Uptime: 99.99%
-  Stack: React + TypeScript + GCP
+  Role: official IT support channel, 200+ staff
+  Accuracy: 94%, measured by a self-eval loop
+  Languages: English + Tagalog
+  Channels: Google Chat · phone line · Jira
+  Stack: Google Cloud + LLM agents + Jira API
 ```
 
 </td>
 <td width="50%" align="center">
 
-#### ⏰ **PunchClock**
+#### ☎️ **Multi-tenant Voice & Messaging Agents**
 
-**HR Automation for Factories**
+**Replaces the phone queue** · 2026
 
-[![Live](https://img.shields.io/badge/•_View_Demo-00FFA3?style=for-the-badge)](https://github.com/W3JDev/punchclock-demo)
+![Enterprise](https://img.shields.io/badge/🔒_Enterprise-Confidential-0078D4?style=for-the-badge)
 
 ```yaml
-🎯 Impact:
-  Active Users: 15,000+ employees
-  Time Reduction: 95% (40h → 2h)
-  Penalties: Zero in 12 months
-  Stack: FastAPI + K8s + PostgreSQL
+🎯 What it does:
+  Recognises callers, answers from tenant KB
+  Books real calendars, warm human handoff
+  Isolated data + branding per tenant (5)
+  LLM never touches the DB: validated tool calls
+  Stack: FastAPI · Retell AI · Telnyx SIP · pgvector · MCP
 ```
 
 </td>
@@ -185,67 +185,90 @@ LLM judges, rating scales and a gateway key.</sub>
 <tr>
 <td width="50%" align="center">
 
-#### 🍷 **VineAI**
+#### 📄 **Enterprise Document AI**
 
-**AI Wine Sommelier**
+**Fortune Global 500 logistics** · Aug–Dec 2025
 
-[![Live](https://img.shields.io/badge/•_View_Project-FF006E?style=for-the-badge)](https://github.com/W3JDev/VineAI)
+![Enterprise](https://img.shields.io/badge/🔒_Enterprise-Confidential-0078D4?style=for-the-badge)
 
 ```yaml
 🎯 Impact:
-  Deployments: 50 restaurants (SE Asia)
-  Ticket Size: +35% increase
-  ROI: 300% average
-  Stack: Python + OpenAI + LangChain
+  Review cycles: several hours -> under 30 min
+  Compliance findings: zero
+  Auth: enterprise LDAP / OAuth2
+  Explanation layer: operators see the "why"
+  Stack: Azure OpenAI + MongoDB + Pydantic
 ```
 
 </td>
 <td width="50%" align="center">
 
-#### 📊 **MenuMuze**
+#### 💸 **LLM Cost Forensics**
 
-**NLP Menu Recommender**
+**Enterprise AI spend** · 2026
 
-[![Live](https://img.shields.io/badge/•_View_Project-8E7CC3?style=for-the-badge)](https://github.com/W3JDev/MenuMuze_The_WaiterAi-demo)
+![Enterprise](https://img.shields.io/badge/🔒_Enterprise-Confidential-0078D4?style=for-the-badge)
 
 ```yaml
 🎯 Impact:
-  Upsell Increase: 22% measured
-  Technology: NLP query processing
-  Features: Real-time dietary filters
-  Stack: Python + NLP + FastAPI
+  Found: 1 unmonitored cron = 84% of token spend
+  Method: per-process (not per-project) metering
+  Then: OCR instead of raw page context
+  Plus: 50-70% off the remaining run rate
 ```
 
 </td>
 </tr>
 
 <tr>
-<td colspan="2" align="center">
+<td width="50%" align="center">
 
-#### 🏢 **CMA CGM Enterprise AI**
+#### 💎 **Bijou AI** — W3J flagship
 
-**Fortune 500 Logistics AI** (Confidential)
+**WhatsApp-native AI employee**
 
-[![Azure](https://img.shields.io/badge/🔒_Enterprise_Project-0078D4?style=for-the-badge)](#)
+[![Live](https://img.shields.io/badge/•_See_Bijou_Live-FFD700?style=for-the-badge)](https://w3jdev.com/#bijou)
 
 ```yaml
-🎯 Impact:
-  Manual Reduction: 70%
-  Cost Avoidance: $3M annually
-  Security Incidents: Zero
-  Stack: Azure OpenAI + Kubernetes + Enterprise Security
-  Timeline: Aug-Dec 2025
+🎯 Product:
+  Status: live in production
+  Does: replies in 5 languages, bookings,
+        lead capture, human handoff
+  Offer: managed AI agent from $499/mo
+  Stack: FastAPI + Supabase + 4-agent pipeline
+```
+
+</td>
+<td width="50%" align="center">
+
+#### ⏰ **PunchClock** — where it all started
+
+**Attendance & payroll automation**
+
+[![Case study](https://img.shields.io/badge/•_Code_+_Case_Study-00FFA3?style=for-the-badge)](https://github.com/W3JDev/Employe-Attendence-System-Google-Sheet-Appscript-Project)
+
+```yaml
+🎯 Impact (2023, café & bar, 50+ staff):
+  Quote to build it: USD 15,000
+  Built instead: myself, with ChatGPT + Apps Script
+  Payroll admin: ~40h -> ~2h per month
+  Accuracy: ~97%
+  Today: productised as PunchClock
 ```
 
 </td>
 </tr>
 </table>
 
+<sub>🧪 Open source: <a href="https://github.com/W3JDev/whatsapp-bridge-mcp">whatsapp-bridge-mcp</a> (Go + Python bridge replacing the paid WhatsApp Business API) ·
+<a href="https://github.com/W3JDev/Multi-AI-Autonomous-System">Multi-AI-Autonomous-System</a> (8 coordinating agents) ·
+<a href="https://github.com/W3JDev/agent-homeland">Agent Homeland</a> (self-hosted agent platform)</sub>
+
 </div>
 
 ---
 
-## � More Innovation Projects
+## 🚀 More Innovation Projects
 
 <div align="center">
 
