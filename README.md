@@ -2,13 +2,13 @@
 
 <!-- ANIMATED BANNER -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=MN%20Jewel&fontSize=65&fontColor=FFD700&animation=twinkling&fontAlignY=35&desc=Founder%20@%20W3J%20LLC%20•%20AI%20Engineer%20•%20200+%20Business%20Transformations&descAlignY=55&descSize=18">
-  <img alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=MN%20Jewel&fontSize=65&fontColor=FFD700&animation=twinkling&fontAlignY=35&desc=Founder%20@%20W3J%20LLC%20•%20AI%20Engineer%20•%20200+%20Business%20Transformations&descAlignY=55&descSize=18">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=MN%20Jewel&fontSize=65&fontColor=FFD700&animation=twinkling&fontAlignY=35&desc=Founder%20@%20W3J%20LLC%20•%20AI%20Automation%20for%20Operators&descAlignY=55&descSize=18">
+  <img alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=MN%20Jewel&fontSize=65&fontColor=FFD700&animation=twinkling&fontAlignY=35&desc=Founder%20@%20W3J%20LLC%20•%20AI%20Automation%20for%20Operators&descAlignY=55&descSize=18">
 </picture>
 
 <!-- PREMIUM TYPING ANIMATION -->
 <img
- src="https://readme-typing-svg.vercel.app?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=I+Saved+My+Mother's+Life+Using+AI+%F0%9F%92%9B;Now+I+Build+Systems+That+Save+1%2C200%2B+Hours+Annually+%E2%9A%A1;Serving+15%2C000%2B+Daily+Active+Users+%F0%9F%9A%80;Let's+Build+Something+Legendary+Together+%E2%9C%A8"
+ src="https://readme-typing-svg.vercel.app?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=I+Saved+My+Mother's+Life+Using+AI+%F0%9F%92%9B;Now+I+Build+Systems+That+Save+1%2C200%2B+Hours+Annually+%E2%9A%A1;Building+%26+Shipping+Since+2021+%F0%9F%9A%80;Let's+Build+Something+Legendary+Together+%E2%9C%A8"
  alt="Typing SVG"
 />
 
@@ -29,7 +29,7 @@
 
 <!-- PREMIUM STATS & SOCIAL PROOF -->
 <p>
-  <a href="https://githired.tech/applicant/w3jdev">
+  <a href="https://githired.tech/developer/w3jdev">
     <img src="https://img.shields.io/badge/🏆_GitHired-93%2F100_Top_1%25-FF006E?style=for-the-badge&logo=github&logoColor=white" alt="GitHired Score"/>
   </a>
   <a href="https://linkedin.com/in/w3jdev">
@@ -65,7 +65,7 @@
 <!-- PROFESSIONAL BIO WITH ICONS -->
 <div align="center">
 
-### 💼 Built Production Systems for 200+ Businesses | 📈 Proven 300%+ ROI | 🌍 Malaysia-Based, Open to Remote/Singapore
+### 💼 50+ Businesses Served | ⏱️ 1,200+ Hours Saved Annually | 🌍 Malaysia-Based, Open to Remote/Singapore
 
 </div>
 
@@ -75,7 +75,7 @@
 
 **This is not a typical tech journey...**
 
-I'm an **operator-turned-engineer** who learned to code out of **desperation**—and built systems that now **serve 15,000+ people daily**.
+I'm an **operator-turned-engineer** who learned to code out of **desperation**—and built systems that now **run in production for real teams**.
 
 **My Journey:**
 
@@ -134,11 +134,11 @@ LLM judges, rating scales and a gateway key.</sub>
 
 ---
 
-## 🏆 Featured Work — measured outcomes
+## 🏆 Featured Work
 
 <div align="center">
 
-<sub>🔒 Enterprise work is shown without client or employer names (NDA). Every figure below is measured, not estimated.</sub>
+<sub>Owner-built products and open source. Enterprise contract work is described without client names (NDA).</sub>
 
 <br/>
 
@@ -146,123 +146,99 @@ LLM judges, rating scales and a gateway key.</sub>
 <tr>
 <td width="50%" align="center">
 
-#### 🛠️ **Company-wide IT Service Agent**
-
-**US technology services group** · 2026
-
-![Enterprise](https://img.shields.io/badge/🔒_Enterprise-Confidential-0078D4?style=for-the-badge)
-
-```yaml
-🎯 Impact:
-  Role: official IT support channel, 200+ staff
-  Accuracy: 94%, measured by a self-eval loop
-  Languages: English + Tagalog
-  Channels: Google Chat · phone line · Jira
-  Stack: Google Cloud + LLM agents + Jira API
-```
-
-</td>
-<td width="50%" align="center">
-
-#### ☎️ **Multi-tenant Voice & Messaging Agents**
-
-**Replaces the phone queue** · 2026
-
-![Enterprise](https://img.shields.io/badge/🔒_Enterprise-Confidential-0078D4?style=for-the-badge)
-
-```yaml
-🎯 What it does:
-  Recognises callers, answers from tenant KB
-  Books real calendars, warm human handoff
-  Isolated data + branding per tenant (5)
-  LLM never touches the DB: validated tool calls
-  Stack: FastAPI · Retell AI · Telnyx SIP · pgvector · MCP
-```
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" align="center">
-
-#### 📄 **Enterprise Document AI**
-
-**Fortune Global 500 logistics** · Aug–Dec 2025
-
-![Enterprise](https://img.shields.io/badge/🔒_Enterprise-Confidential-0078D4?style=for-the-badge)
-
-```yaml
-🎯 Impact:
-  Review cycles: several hours -> under 30 min
-  Compliance findings: zero
-  Auth: enterprise LDAP / OAuth2
-  Explanation layer: operators see the "why"
-  Stack: Azure OpenAI + MongoDB + Pydantic
-```
-
-</td>
-<td width="50%" align="center">
-
-#### 💸 **LLM Cost Forensics**
-
-**Enterprise AI spend** · 2026
-
-![Enterprise](https://img.shields.io/badge/🔒_Enterprise-Confidential-0078D4?style=for-the-badge)
-
-```yaml
-🎯 Impact:
-  Found: 1 unmonitored cron = 84% of token spend
-  Method: per-process (not per-project) metering
-  Then: OCR instead of raw page context
-  Plus: 50-70% off the remaining run rate
-```
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" align="center">
-
 #### 💎 **Bijou AI** — W3J flagship
 
-**WhatsApp-native AI employee**
+**WhatsApp AI agent for SMEs**
 
 [![Live](https://img.shields.io/badge/•_See_Bijou_Live-FFD700?style=for-the-badge)](https://w3jdev.com/#bijou)
 
 ```yaml
-🎯 Product:
-  Status: live in production
-  Does: replies in 5 languages, bookings,
-        lead capture, human handoff
-  Offer: managed AI agent from $499/mo
-  Stack: FastAPI + Supabase + 4-agent pipeline
+🎯 Product (live):
+  Replies: 5 languages, including Manglish
+  Does: lead capture · Cal.com booking
+        · human takeover
+  Platform: multi-tenant · dashboard
+  Stack: FastAPI + Supabase + multi-agent
+         reply pipeline
 ```
 
 </td>
 <td width="50%" align="center">
 
-#### ⏰ **PunchClock** — where it all started
+#### ⏰ **PunchClock origin** — 2023
 
-**Attendance & payroll automation**
+**Attendance & payroll system, café & bar (50+ staff)**
 
 [![Case study](https://img.shields.io/badge/•_Code_+_Case_Study-00FFA3?style=for-the-badge)](https://github.com/W3JDev/Employe-Attendence-System-Google-Sheet-Appscript-Project)
 
 ```yaml
-🎯 Impact (2023, café & bar, 50+ staff):
+🎯 Impact (the 2023 Sheets system):
   Quote to build it: USD 15,000
-  Built instead: myself, with ChatGPT + Apps Script
+  Built instead: myself, ChatGPT + Apps Script
   Payroll admin: ~40h -> ~2h per month
   Accuracy: ~97%
-  Today: productised as PunchClock
+  Today: grown into the PunchClock prototype
+```
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+
+#### 🔌 **whatsapp-bridge-mcp** — open source
+
+**Replaces the paid WhatsApp Business API**
+
+[![Repo](https://img.shields.io/badge/•_View_Repo-FF006E?style=for-the-badge)](https://github.com/W3JDev/whatsapp-bridge-mcp)
+
+```yaml
+🎯 What it is:
+  Bridge: Go + Python
+  Interface: exposed to agents as MCP tools
+  Use: WhatsApp for agents without
+       per-message API fees
+```
+
+</td>
+<td width="50%" align="center">
+
+#### 🤖 **Multi-AI-Autonomous-System** — open source
+
+**Eight specialised agents, one control loop**
+
+[![Repo](https://img.shields.io/badge/•_View_Repo-8E7CC3?style=for-the-badge)](https://github.com/W3JDev/Multi-AI-Autonomous-System)
+
+```yaml
+🎯 What it is:
+  Agents: 8 specialised, coordinating
+  Scope: work across 130+ repositories
+  Pattern: orchestrator -> worker agents
+```
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+#### 📄 **Enterprise LLM Document Automation**
+
+**Fortune Global 500 logistics company · APAC hub · Aug–Dec 2025** · 🔒 NDA
+
+```yaml
+🎯 Built:
+  Retrieval pipeline + conversational UI for logistics documentation
+  Explanation layer: operators see why a document was classified
+  Inside enterprise auth (LDAP / OAuth2)
+  Stack: Azure OpenAI + MongoDB + Pydantic validation
 ```
 
 </td>
 </tr>
 </table>
 
-<sub>🧪 Open source: <a href="https://github.com/W3JDev/whatsapp-bridge-mcp">whatsapp-bridge-mcp</a> (Go + Python bridge replacing the paid WhatsApp Business API) ·
-<a href="https://github.com/W3JDev/Multi-AI-Autonomous-System">Multi-AI-Autonomous-System</a> (8 coordinating agents) ·
-<a href="https://github.com/W3JDev/agent-homeland">Agent Homeland</a> (self-hosted agent platform)</sub>
+<sub>Also: <a href="https://github.com/W3JDev/agent-homeland">Agent Homeland</a> — the self-hosted platform these agents run on.</sub>
 
 </div>
 
@@ -503,25 +479,25 @@ LLM judges, rating scales and a gateway key.</sub>
 </td>
 <td align="center" width="25%">
   <img src="https://img.icons8.com/color/96/000000/security-checked.png" width="64"/><br/>
-  <b>Security Record</b><br/>
-  <sub>Zero incidents (12+ mo)</sub>
+  <b>President Scout</b><br/>
+  <sub>Bangladesh, 2010</sub>
 </td>
 </tr>
 <tr>
 <td align="center" width="25%">
   <img src="https://img.icons8.com/color/96/000000/server.png" width="64"/><br/>
-  <b>Production Uptime</b><br/>
-  <sub>99.99% reliability</sub>
+  <b>Building Since</b><br/>
+  <sub>July 2021 · W3J LLC 2025</sub>
 </td>
 <td align="center" width="25%">
   <img src="https://img.icons8.com/color/96/000000/briefcase.png" width="64"/><br/>
-  <b>Client Base</b><br/>
-  <sub>200+ businesses served</sub>
+  <b>Businesses Served</b><br/>
+  <sub>50+</sub>
 </td>
 <td align="center" width="25%">
   <img src="https://img.icons8.com/color/96/000000/graph.png" width="64"/><br/>
-  <b>Avg ROI</b><br/>
-  <sub>300%+ measured</sub>
+  <b>Revenue Generated</b><br/>
+  <sub>$80K+</sub>
 </td>
 <td align="center" width="25%">
   <img src="https://img.icons8.com/color/96/000000/savings.png" width="64"/><br/>
@@ -535,6 +511,7 @@ LLM judges, rating scales and a gateway key.</sub>
 
 ---
 
+<!-- Testimonials hidden pending permission + source confirmation (see W3J docs/showcase/PROFILE-HANDOFF.md §7).
 ## 💬 Testimonials & Social Proof
 
 <div align="center">
@@ -550,7 +527,9 @@ LLM judges, rating scales and a gateway key.</sub>
 
 </div>
 
----
+- --
+
+-->
 
 ## 📫 Let's Build Something Together
 
@@ -623,7 +602,7 @@ LLM judges, rating scales and a gateway key.</sub>
 <!-- FOOTER QUOTE -->
 <br/>
 
-> ### **"From saving my mother's life to saving 1,200+ hours for 200+ businesses"**
+> ### **"From saving my mother's life to saving 1,200+ hours a year for 50+ businesses"**
 >
 > ### I build systems that matter. Let's create something legendary together
 
