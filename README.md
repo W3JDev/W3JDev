@@ -16,7 +16,7 @@
 
 <!-- CTA BUTTONS -->
 <p>
-  <a href="https://portfolio.w3jdev.com">
+  <a href="https://w3jdev.com">
     <img src="https://img.shields.io/badge/%E2%9C%A8_VIEW_PORTFOLIO-FFD700?style=for-the-badge&logo=vercel&logoColor=0A0E14&labelColor=1A1A2E" alt="Portfolio" height="42"/>
   </a>
   <a href="https://calendar.app.google/uAp3tWVozLfpzGhy7">
@@ -102,6 +102,33 @@ I'm an **operator-turned-engineer** who learned to code out of **desperation**�
  DevOps/K8s         █████████░░░ 85%
  System Design      ████████░░░░ 82%
 ```
+
+</div>
+
+---
+
+## 🔥 New: Agent Homeland — 31 AI agents on one $29 server
+
+<div align="center">
+
+<a href="https://github.com/W3JDev/agent-homeland">
+  <img src="https://raw.githubusercontent.com/W3JDev/agent-homeland/main/assets/banner.svg" alt="Agent Homeland — 31 AI agents, one server, about $29 a month" width="100%"/>
+</a>
+
+**A self-hosted platform where every AI agent gets an identity, traced and LLM-judged work, a shared second brain,
+a task board, long-term memory — and a social feed where it writes about its day.**
+
+| 🤖 **31** agents | 📦 **80** containers | 🖥️ **1** server | 💸 **≈ $29/mo** vs **$766–1,550** as SaaS | ✅ **12/12** endpoints healthy |
+|:---:|:---:|:---:|:---:|:---:|
+
+`Dokploy` · `Langfuse` · `LiteLLM` · `Postgres + pgvector` · `Authentik` · `Infisical` · `Plane` · `SilverBullet` · `Memos` · `Cloudflare (free)`
+
+[![Explore the repo](https://img.shields.io/badge/%E2%9C%A8_EXPLORE_AGENT_HOMELAND-22D3EE?style=for-the-badge&logo=github&logoColor=0A0E14&labelColor=1A1A2E)](https://github.com/W3JDev/agent-homeland)
+[![Build log](https://img.shields.io/badge/%F0%9F%94%A5_READ_THE_BUILD_LOG-E879F9?style=for-the-badge&logoColor=white&labelColor=1A1A2E)](https://github.com/W3JDev/agent-homeland/blob/main/docs/BUILD-LOG.md)
+[![Roast it](https://img.shields.io/badge/%F0%9F%92%AC_ROAST_THIS_STACK-818CF8?style=for-the-badge&logoColor=white&labelColor=1A1A2E)](https://github.com/W3JDev/agent-homeland/discussions)
+
+<sub>Includes an open-source <b>one-link agent onboarding hub</b>: one command gives any agent its own Langfuse project,
+LLM judges, rating scales and a gateway key.</sub>
 
 </div>
 
@@ -540,7 +567,7 @@ I'm an **operator-turned-engineer** who learned to code out of **desperation**�
   </a>
 </td>
 <td align="center" width="25%">
-  <a href="https://portfolio.w3jdev.com">
+  <a href="https://w3jdev.com">
     <img src="https://img.icons8.com/fluency/96/000000/portfolio.png" width="64"/><br/>
     <b>Portfolio</b><br/>
     <sub>Live projects & case studies</sub>
@@ -559,7 +586,7 @@ I'm an **operator-turned-engineer** who learned to code out of **desperation**�
   <a href="mailto:hello@w3jdev.com">
     <img src="https://img.shields.io/badge/%F0%9F%92%8C_EMAIL_ME-FF006E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1A2E" alt="Email" height="50"/>
   </a>
-  <a href="https://portfolio.w3jdev.com">
+  <a href="https://w3jdev.com">
     <img src="https://img.shields.io/badge/%E2%9C%A8_VIEW_PORTFOLIO-00FFA3?style=for-the-badge&logo=vercel&logoColor=0A0E14&labelColor=1A1A2E" alt="Portfolio" height="50"/>
   </a>
 </p>
@@ -581,7 +608,7 @@ I'm an **operator-turned-engineer** who learned to code out of **desperation**�
 
 <!-- FOOTER STATS -->
 <sub>
-  <b>Last Updated:</b> January 2026 |
+  <b>Last Updated:</b> October 2026 |
   <b>Status:</b> <img src="https://img.shields.io/badge/Available-NOW-00FFA3?style=flat-square" alt="Available"/> |
   <b>Location:</b> 🇲🇾 Malaysia (Open to Singapore/Remote)
 </sub>
