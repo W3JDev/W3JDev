@@ -73,9 +73,13 @@
 
 ## 👋 About Me: From Rural Village to AI Engineer
 
-**This is not a typical tech journey...**
+An engineer with 20 years behind him called me a **“duct tape programmer.”**
 
-I'm an **operator-turned-engineer** who learned to code out of **desperation**—and built systems that now **run in production for real teams**.
+Maybe he’s right. I learned to build when life couldn’t wait—from helping save my mother’s life to shipping AI that keeps the floor running, day and night.
+
+Hi, I’m **MN Jewel (aka w3jdev)**, an **AI Systems Architect** and the founder of **W3J LLC**.
+
+I build voice agents for live phone traffic, internal service agents, and the permission and cost controls around them. Five years shipping production software, grounded in a decade of running hospitality operations.
 
 **My Journey:**
 
@@ -609,7 +613,7 @@ LLM judges, rating scales and a gateway key.</sub>
 
 <!-- FOOTER STATS -->
 <sub>
-  <b>Last Updated:</b> October 2026 |
+  <b>Last Updated:</b> November 2026 |
   <b>Status:</b> <img src="https://img.shields.io/badge/Available-NOW-00FFA3?style=flat-square" alt="Available"/> |
   <b>Location:</b> 🇲🇾 Malaysia (Open to Singapore/Remote)
 </sub>
